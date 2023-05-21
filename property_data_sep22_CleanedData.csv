@@ -1,0 +1,847 @@
+,Unnamed: 0,Address,Beds,Bath,Size_sqft,Lot_Size,Agent_Name ,Agent_Company,Price,Walk_Score,Transit_Score,Bike_Score
+0,0,"5615 Greeley PL, Fremont, Alameda County, CA, 94538",3,2.0,"1,108",0.137 ac,Cindy Liu ,Starriver Inc,"$1,298,000 USD",49.0,35.0,44.0
+1,1,"38566 Acacia St, Fremont, Alameda County, CA, 94536",3,2.0,"1,492",0.15 ac,Jill Denton ,"eXp Realty of California, Inc","$1,449,000 USD",81.0,58.0,73.0
+2,2,"5349 Audubon Park CT, Fremont, Alameda County, CA, 94538",4,3.0,"1,581",0.206 ac,Scott Perry ,KW Bay Area Estates,"$1,575,000 USD",45.0,32.0,48.0
+3,3,"4103 Tawny TER, Fremont, Alameda County, CA, 94536",3,3.0,"1,549",2.34 ac,Terri Brown ,Compass,"$1,198,000 USD",72.0,41.0,52.0
+4,4,"762 Ridgeview Ter, Fremont, Alameda County, CA, 94536",2,2.0,"1,001",0.09 ac,Marie Rice ,Legacy Real Estate & Assoc.,"$998,500 USD",23.0,53.0,63.0
+5,5,"4839 Sterling Dr, Fremont, Alameda County, CA, 94536",3,2.0,"1,132",0.213 ac,Elena Garcia ,Intero Real Estate Services,"$1,198,000 USD",36.0,29.0,41.0
+6,6,"37900 2nd Street, Fremont, Alameda County, CA, 94536",3,2.0,"1,364",0.14 ac,Timothy Fletcher ,Keller Williams Benchmark,"$1,364,999 USD",71.0,26.0,74.0
+7,7,"42930 Corte Habana, Fremont, Alameda County, CA, 94539",3,2.0,"1,242",906 ac,Parveen Singh ,Redfin,"$950,000 USD",53.0,33.0,44.0
+8,8,"4825 Valpey Park Ave, Fremont, Alameda County, CA, 94538",4,2.0,"1,551",0.135 ac,Kim Ott ,Compass,"$1,488,888 USD",52.0,29.0,48.0
+9,9,"3850 Great Salt Lake CT, Fremont, Alameda County, CA, 94555",3,3.0,"1,335",0.092 ac,Jose Reyes ,Elite Realty Services,"$1,199,000 USD",67.0,39.0,57.0
+10,10,"38912 Cherry Glen Cmn, Fremont, Alameda County, CA, 94536",2,2.0,"1,168",0.52 ac,Steve Pierce ,Keller Williams Benchmark,"$749,000 USD",30.0,56.0,68.0
+11,11,"4340 Peregrine Way, Fremont, Alameda County, CA, 94555",4,3.0,"2,474",0.138 ac,Farid Nasraty ,Alliance Bay Realty,"$2,225,000 USD",38.0,31.0,54.0
+12,12,"38618 Country Cmn, Fremont, Alameda County, CA, 94536",2,2.0,723,0.81 ac,Jaideep Singh ,Keller Williams Benchmark,"$448,000 USD",76.0,52.0,62.0
+13,13,"4182 Isola Dr, Fremont, Alameda County, CA, 94555",4,2.0,"2,008",0.27 ac,Pamela Tran ,Redfin,"$1,888,000 USD",44.0,32.0,55.0
+14,14,"1540 Skelton Ct, Fremont, Alameda County, CA, 94536",4,2.0,"2,325",0.251 ac,Kim Ott ,Compass,"$1,798,888 USD",41.0,54.0,60.0
+15,15,"4990 Everglades Park Dr., Fremont, Alameda County, CA, 94538",3,2.0,"1,180",0.15 ac,Martin Y Lu ,Alliance Bay Realty,"$1,080,000 USD",40.0,31.0,52.0
+16,16,"4376 Hyde Cmn, Fremont, Alameda County, CA, 94538",4,4.0,"1,737",0.25 ac,Tim S. Wang ,Legacy Real Estate & Assoc.,"$1,399,800 USD",82.0,38.0,58.0
+17,17,"4350 Burke Way, Fremont, Alameda County, CA, 94536",3,2.0,"1,148",0.14 ac,Sanjiv Nayyar ,Redfin,"$1,299,000 USD",66.0,41.0,59.0
+18,18,"2359 Halogen Cmn 211, Fremont, Alameda County, CA, 94539",2,2.0,"1,886",0,Ted Chen ,"eXp Realty of California, Inc","$1,299,000 USD",30.0,52.0,64.0
+19,19,"38985 Gar TER, Fremont, Alameda County, CA, 94536",3,3.0,"1,400",0.023 ac,John Chung ,Keller Williams Palo Alto,"$1,150,000 USD",57.0,60.0,77.0
+20,20,"3878 Scamman Ct, Fremont, Alameda County, CA, 94538",4,3.0,"1,695",0.12 ac,Rick Geha ,"eXp Realty of California, Inc","$1,789,888 USD",82.0,36.0,69.0
+21,21,"480 Chardonnay Dr, Fremont, Alameda County, CA, 94539",4,3.0,"2,262",0.15 ac,Bobby Nijjar ,Legacy Real Estate & Assoc.,"$1,999,000 USD",27.0,37.0,51.0
+22,22,"3587 Wyndham Dr, Fremont, Alameda County, CA, 94536",4,2.0,"1,714",0.15 ac,Louis Heystek ,Compass,"$1,749,000 USD",49.0,42.0,54.0
+23,23,"5615 Greeley PL, Fremont, Alameda County, CA, 94538",3,2.0,"1,108",0.137 ac,Cindy Liu ,Starriver Inc,"$1,298,000 USD",49.0,35.0,44.0
+24,24,"38566 Acacia St, Fremont, Alameda County, CA, 94536",3,2.0,"1,492",0.15 ac,Jill Denton ,"eXp Realty of California, Inc","$1,449,000 USD",81.0,58.0,73.0
+25,25,"5349 Audubon Park CT, Fremont, Alameda County, CA, 94538",4,3.0,"1,581",0.206 ac,Scott Perry ,KW Bay Area Estates,"$1,575,000 USD",45.0,32.0,48.0
+26,26,"4103 Tawny TER, Fremont, Alameda County, CA, 94536",3,3.0,"1,549",2.34 ac,Terri Brown ,Compass,"$1,198,000 USD",72.0,41.0,52.0
+27,27,"762 Ridgeview Ter, Fremont, Alameda County, CA, 94536",2,2.0,"1,001",0.09 ac,Marie Rice ,Legacy Real Estate & Assoc.,"$998,500 USD",23.0,53.0,63.0
+28,28,"4839 Sterling Dr, Fremont, Alameda County, CA, 94536",3,2.0,"1,132",0.213 ac,Elena Garcia ,Intero Real Estate Services,"$1,198,000 USD",36.0,29.0,41.0
+29,29,"37900 2nd Street, Fremont, Alameda County, CA, 94536",3,2.0,"1,364",0.14 ac,Timothy Fletcher ,Keller Williams Benchmark,"$1,364,999 USD",71.0,26.0,74.0
+30,30,"42930 Corte Habana, Fremont, Alameda County, CA, 94539",3,2.0,"1,242",906 ac,Parveen Singh ,Redfin,"$950,000 USD",53.0,33.0,44.0
+31,31,"4825 Valpey Park Ave, Fremont, Alameda County, CA, 94538",4,2.0,"1,551",0.135 ac,Kim Ott ,Compass,"$1,488,888 USD",52.0,29.0,48.0
+32,32,"3850 Great Salt Lake CT, Fremont, Alameda County, CA, 94555",3,3.0,"1,335",0.092 ac,Jose Reyes ,Elite Realty Services,"$1,199,000 USD",67.0,39.0,57.0
+33,33,"38912 Cherry Glen Cmn, Fremont, Alameda County, CA, 94536",2,2.0,"1,168",0.52 ac,Steve Pierce ,Keller Williams Benchmark,"$749,000 USD",30.0,56.0,68.0
+34,34,"4340 Peregrine Way, Fremont, Alameda County, CA, 94555",4,3.0,"2,474",0.138 ac,Farid Nasraty ,Alliance Bay Realty,"$2,225,000 USD",38.0,31.0,54.0
+35,35,"38618 Country Cmn, Fremont, Alameda County, CA, 94536",2,2.0,723,0.81 ac,Jaideep Singh ,Keller Williams Benchmark,"$448,000 USD",76.0,52.0,62.0
+36,36,"4182 Isola Dr, Fremont, Alameda County, CA, 94555",4,2.0,"2,008",0.27 ac,Pamela Tran ,Redfin,"$1,888,000 USD",44.0,32.0,55.0
+37,37,"1540 Skelton Ct, Fremont, Alameda County, CA, 94536",4,2.0,"2,325",0.251 ac,Kim Ott ,Compass,"$1,798,888 USD",41.0,54.0,60.0
+38,38,"4990 Everglades Park Dr., Fremont, Alameda County, CA, 94538",3,2.0,"1,180",0.15 ac,Martin Y Lu ,Alliance Bay Realty,"$1,080,000 USD",40.0,31.0,52.0
+39,39,"4376 Hyde Cmn, Fremont, Alameda County, CA, 94538",4,4.0,"1,737",0.25 ac,Tim S. Wang ,Legacy Real Estate & Assoc.,"$1,399,800 USD",82.0,38.0,58.0
+40,40,"4350 Burke Way, Fremont, Alameda County, CA, 94536",3,2.0,"1,148",0.14 ac,Sanjiv Nayyar ,Redfin,"$1,299,000 USD",66.0,41.0,59.0
+41,41,"2359 Halogen Cmn 211, Fremont, Alameda County, CA, 94539",2,2.0,"1,886",0,Ted Chen ,"eXp Realty of California, Inc","$1,299,000 USD",30.0,52.0,64.0
+42,42,"38985 Gar TER, Fremont, Alameda County, CA, 94536",3,3.0,"1,400",0.023 ac,John Chung ,Keller Williams Palo Alto,"$1,150,000 USD",57.0,60.0,77.0
+43,43,"3878 Scamman Ct, Fremont, Alameda County, CA, 94538",4,3.0,"1,695",0.12 ac,Rick Geha ,"eXp Realty of California, Inc","$1,789,888 USD",82.0,36.0,69.0
+44,44,"480 Chardonnay Dr, Fremont, Alameda County, CA, 94539",4,3.0,"2,262",0.15 ac,Bobby Nijjar ,Legacy Real Estate & Assoc.,"$1,999,000 USD",27.0,37.0,51.0
+45,45,"3587 Wyndham Dr, Fremont, Alameda County, CA, 94536",4,2.0,"1,714",0.15 ac,Louis Heystek ,Compass,"$1,749,000 USD",49.0,42.0,54.0
+46,46,"5615 Greeley PL, Fremont, Alameda County, CA, 94538",3,2.0,"1,108",0.137 ac,Cindy Liu ,Starriver Inc,"$1,298,000 USD",49.0,35.0,44.0
+47,47,"38566 Acacia St, Fremont, Alameda County, CA, 94536",3,2.0,"1,492",0.15 ac,Jill Denton ,"eXp Realty of California, Inc","$1,449,000 USD",81.0,58.0,73.0
+48,48,"5349 Audubon Park CT, Fremont, Alameda County, CA, 94538",4,3.0,"1,581",0.206 ac,Scott Perry ,KW Bay Area Estates,"$1,575,000 USD",45.0,32.0,48.0
+49,49,"4103 Tawny TER, Fremont, Alameda County, CA, 94536",3,3.0,"1,549",2.34 ac,Terri Brown ,Compass,"$1,198,000 USD",72.0,41.0,52.0
+50,50,"762 Ridgeview Ter, Fremont, Alameda County, CA, 94536",2,2.0,"1,001",0.09 ac,Marie Rice ,Legacy Real Estate & Assoc.,"$998,500 USD",23.0,53.0,63.0
+51,51,"4839 Sterling Dr, Fremont, Alameda County, CA, 94536",3,2.0,"1,132",0.213 ac,Elena Garcia ,Intero Real Estate Services,"$1,198,000 USD",36.0,29.0,41.0
+52,52,"37900 2nd Street, Fremont, Alameda County, CA, 94536",3,2.0,"1,364",0.14 ac,Timothy Fletcher ,Keller Williams Benchmark,"$1,364,999 USD",71.0,26.0,74.0
+53,53,"42930 Corte Habana, Fremont, Alameda County, CA, 94539",3,2.0,"1,242",906 ac,Parveen Singh ,Redfin,"$950,000 USD",53.0,33.0,44.0
+54,54,"4825 Valpey Park Ave, Fremont, Alameda County, CA, 94538",4,2.0,"1,551",0.135 ac,Kim Ott ,Compass,"$1,488,888 USD",52.0,29.0,48.0
+55,55,"3850 Great Salt Lake CT, Fremont, Alameda County, CA, 94555",3,3.0,"1,335",0.092 ac,Jose Reyes ,Elite Realty Services,"$1,199,000 USD",67.0,39.0,57.0
+56,56,"38912 Cherry Glen Cmn, Fremont, Alameda County, CA, 94536",2,2.0,"1,168",0.52 ac,Steve Pierce ,Keller Williams Benchmark,"$749,000 USD",30.0,56.0,68.0
+57,57,"4340 Peregrine Way, Fremont, Alameda County, CA, 94555",4,3.0,"2,474",0.138 ac,Farid Nasraty ,Alliance Bay Realty,"$2,225,000 USD",38.0,31.0,54.0
+58,58,"38618 Country Cmn, Fremont, Alameda County, CA, 94536",2,2.0,723,0.81 ac,Jaideep Singh ,Keller Williams Benchmark,"$448,000 USD",76.0,52.0,62.0
+59,59,"4182 Isola Dr, Fremont, Alameda County, CA, 94555",4,2.0,"2,008",0.27 ac,Pamela Tran ,Redfin,"$1,888,000 USD",44.0,32.0,55.0
+60,60,"1540 Skelton Ct, Fremont, Alameda County, CA, 94536",4,2.0,"2,325",0.251 ac,Kim Ott ,Compass,"$1,798,888 USD",41.0,54.0,60.0
+61,61,"4990 Everglades Park Dr., Fremont, Alameda County, CA, 94538",3,2.0,"1,180",0.15 ac,Martin Y Lu ,Alliance Bay Realty,"$1,080,000 USD",40.0,31.0,52.0
+62,62,"4376 Hyde Cmn, Fremont, Alameda County, CA, 94538",4,4.0,"1,737",0.25 ac,Tim S. Wang ,Legacy Real Estate & Assoc.,"$1,399,800 USD",82.0,38.0,58.0
+63,63,"4350 Burke Way, Fremont, Alameda County, CA, 94536",3,2.0,"1,148",0.14 ac,Sanjiv Nayyar ,Redfin,"$1,299,000 USD",66.0,41.0,59.0
+64,64,"2359 Halogen Cmn 211, Fremont, Alameda County, CA, 94539",2,2.0,"1,886",0,Ted Chen ,"eXp Realty of California, Inc","$1,299,000 USD",30.0,52.0,64.0
+65,65,"38985 Gar TER, Fremont, Alameda County, CA, 94536",3,3.0,"1,400",0.023 ac,John Chung ,Keller Williams Palo Alto,"$1,150,000 USD",57.0,60.0,77.0
+66,66,"3878 Scamman Ct, Fremont, Alameda County, CA, 94538",4,3.0,"1,695",0.12 ac,Rick Geha ,"eXp Realty of California, Inc","$1,789,888 USD",82.0,36.0,69.0
+67,67,"480 Chardonnay Dr, Fremont, Alameda County, CA, 94539",4,3.0,"2,262",0.15 ac,Bobby Nijjar ,Legacy Real Estate & Assoc.,"$1,999,000 USD",27.0,37.0,51.0
+68,68,"3587 Wyndham Dr, Fremont, Alameda County, CA, 94536",4,2.0,"1,714",0.15 ac,Louis Heystek ,Compass,"$1,749,000 USD",49.0,42.0,54.0
+69,69,"5615 Greeley PL, Fremont, Alameda County, CA, 94538",3,2.0,"1,108",0.137 ac,Cindy Liu ,Starriver Inc,"$1,298,000 USD",49.0,35.0,44.0
+70,70,"38566 Acacia St, Fremont, Alameda County, CA, 94536",3,2.0,"1,492",0.15 ac,Jill Denton ,"eXp Realty of California, Inc","$1,449,000 USD",81.0,58.0,73.0
+71,71,"5349 Audubon Park CT, Fremont, Alameda County, CA, 94538",4,3.0,"1,581",0.206 ac,Scott Perry ,KW Bay Area Estates,"$1,575,000 USD",45.0,32.0,48.0
+72,72,"4103 Tawny TER, Fremont, Alameda County, CA, 94536",3,3.0,"1,549",2.34 ac,Terri Brown ,Compass,"$1,198,000 USD",72.0,41.0,52.0
+73,73,"762 Ridgeview Ter, Fremont, Alameda County, CA, 94536",2,2.0,"1,001",0.09 ac,Marie Rice ,Legacy Real Estate & Assoc.,"$998,500 USD",23.0,53.0,63.0
+74,74,"4839 Sterling Dr, Fremont, Alameda County, CA, 94536",3,2.0,"1,132",0.213 ac,Elena Garcia ,Intero Real Estate Services,"$1,198,000 USD",36.0,29.0,41.0
+75,75,"37900 2nd Street, Fremont, Alameda County, CA, 94536",3,2.0,"1,364",0.14 ac,Timothy Fletcher ,Keller Williams Benchmark,"$1,364,999 USD",71.0,26.0,74.0
+76,76,"42930 Corte Habana, Fremont, Alameda County, CA, 94539",3,2.0,"1,242",906 ac,Parveen Singh ,Redfin,"$950,000 USD",53.0,33.0,44.0
+77,77,"4825 Valpey Park Ave, Fremont, Alameda County, CA, 94538",4,2.0,"1,551",0.135 ac,Kim Ott ,Compass,"$1,488,888 USD",52.0,29.0,48.0
+78,78,"3850 Great Salt Lake CT, Fremont, Alameda County, CA, 94555",3,3.0,"1,335",0.092 ac,Jose Reyes ,Elite Realty Services,"$1,199,000 USD",67.0,39.0,57.0
+79,79,"38912 Cherry Glen Cmn, Fremont, Alameda County, CA, 94536",2,2.0,"1,168",0.52 ac,Steve Pierce ,Keller Williams Benchmark,"$749,000 USD",30.0,56.0,68.0
+80,80,"4340 Peregrine Way, Fremont, Alameda County, CA, 94555",4,3.0,"2,474",0.138 ac,Farid Nasraty ,Alliance Bay Realty,"$2,225,000 USD",38.0,31.0,54.0
+81,81,"38618 Country Cmn, Fremont, Alameda County, CA, 94536",2,2.0,723,0.81 ac,Jaideep Singh ,Keller Williams Benchmark,"$448,000 USD",76.0,52.0,62.0
+82,82,"4182 Isola Dr, Fremont, Alameda County, CA, 94555",4,2.0,"2,008",0.27 ac,Pamela Tran ,Redfin,"$1,888,000 USD",44.0,32.0,55.0
+83,83,"1540 Skelton Ct, Fremont, Alameda County, CA, 94536",4,2.0,"2,325",0.251 ac,Kim Ott ,Compass,"$1,798,888 USD",41.0,54.0,60.0
+84,84,"4990 Everglades Park Dr., Fremont, Alameda County, CA, 94538",3,2.0,"1,180",0.15 ac,Martin Y Lu ,Alliance Bay Realty,"$1,080,000 USD",40.0,31.0,52.0
+85,85,"4376 Hyde Cmn, Fremont, Alameda County, CA, 94538",4,4.0,"1,737",0.25 ac,Tim S. Wang ,Legacy Real Estate & Assoc.,"$1,399,800 USD",82.0,38.0,58.0
+86,86,"4350 Burke Way, Fremont, Alameda County, CA, 94536",3,2.0,"1,148",0.14 ac,Sanjiv Nayyar ,Redfin,"$1,299,000 USD",66.0,41.0,59.0
+87,87,"2359 Halogen Cmn 211, Fremont, Alameda County, CA, 94539",2,2.0,"1,886",0,Ted Chen ,"eXp Realty of California, Inc","$1,299,000 USD",30.0,52.0,64.0
+88,88,"38985 Gar TER, Fremont, Alameda County, CA, 94536",3,3.0,"1,400",0.023 ac,John Chung ,Keller Williams Palo Alto,"$1,150,000 USD",57.0,60.0,77.0
+89,89,"3878 Scamman Ct, Fremont, Alameda County, CA, 94538",4,3.0,"1,695",0.12 ac,Rick Geha ,"eXp Realty of California, Inc","$1,789,888 USD",82.0,36.0,69.0
+90,90,"480 Chardonnay Dr, Fremont, Alameda County, CA, 94539",4,3.0,"2,262",0.15 ac,Bobby Nijjar ,Legacy Real Estate & Assoc.,"$1,999,000 USD",27.0,37.0,51.0
+91,91,"3587 Wyndham Dr, Fremont, Alameda County, CA, 94536",4,2.0,"1,714",0.15 ac,Louis Heystek ,Compass,"$1,749,000 USD",49.0,42.0,54.0
+92,92,"5615 Greeley PL, Fremont, Alameda County, CA, 94538",3,2.0,"1,108",0.137 ac,Cindy Liu ,Starriver Inc,"$1,298,000 USD",49.0,35.0,44.0
+93,93,"38566 Acacia St, Fremont, Alameda County, CA, 94536",3,2.0,"1,492",0.15 ac,Jill Denton ,"eXp Realty of California, Inc","$1,449,000 USD",81.0,58.0,73.0
+94,94,"5349 Audubon Park CT, Fremont, Alameda County, CA, 94538",4,3.0,"1,581",0.206 ac,Scott Perry ,KW Bay Area Estates,"$1,575,000 USD",45.0,32.0,48.0
+95,95,"4103 Tawny TER, Fremont, Alameda County, CA, 94536",3,3.0,"1,549",2.34 ac,Terri Brown ,Compass,"$1,198,000 USD",72.0,41.0,52.0
+96,96,"762 Ridgeview Ter, Fremont, Alameda County, CA, 94536",2,2.0,"1,001",0.09 ac,Marie Rice ,Legacy Real Estate & Assoc.,"$998,500 USD",23.0,53.0,63.0
+97,97,"4839 Sterling Dr, Fremont, Alameda County, CA, 94536",3,2.0,"1,132",0.213 ac,Elena Garcia ,Intero Real Estate Services,"$1,198,000 USD",36.0,29.0,41.0
+98,98,"37900 2nd Street, Fremont, Alameda County, CA, 94536",3,2.0,"1,364",0.14 ac,Timothy Fletcher ,Keller Williams Benchmark,"$1,364,999 USD",71.0,26.0,74.0
+99,99,"42930 Corte Habana, Fremont, Alameda County, CA, 94539",3,2.0,"1,242",906 ac,Parveen Singh ,Redfin,"$950,000 USD",53.0,33.0,44.0
+100,100,"4825 Valpey Park Ave, Fremont, Alameda County, CA, 94538",4,2.0,"1,551",0.135 ac,Kim Ott ,Compass,"$1,488,888 USD",52.0,29.0,48.0
+101,101,"3850 Great Salt Lake CT, Fremont, Alameda County, CA, 94555",3,3.0,"1,335",0.092 ac,Jose Reyes ,Elite Realty Services,"$1,199,000 USD",67.0,39.0,57.0
+102,102,"38912 Cherry Glen Cmn, Fremont, Alameda County, CA, 94536",2,2.0,"1,168",0.52 ac,Steve Pierce ,Keller Williams Benchmark,"$749,000 USD",30.0,56.0,68.0
+103,103,"4340 Peregrine Way, Fremont, Alameda County, CA, 94555",4,3.0,"2,474",0.138 ac,Farid Nasraty ,Alliance Bay Realty,"$2,225,000 USD",38.0,31.0,54.0
+104,104,"38618 Country Cmn, Fremont, Alameda County, CA, 94536",2,2.0,723,0.81 ac,Jaideep Singh ,Keller Williams Benchmark,"$448,000 USD",76.0,52.0,62.0
+105,105,"4182 Isola Dr, Fremont, Alameda County, CA, 94555",4,2.0,"2,008",0.27 ac,Pamela Tran ,Redfin,"$1,888,000 USD",44.0,32.0,55.0
+106,106,"1540 Skelton Ct, Fremont, Alameda County, CA, 94536",4,2.0,"2,325",0.251 ac,Kim Ott ,Compass,"$1,798,888 USD",41.0,54.0,60.0
+107,107,"4990 Everglades Park Dr., Fremont, Alameda County, CA, 94538",3,2.0,"1,180",0.15 ac,Martin Y Lu ,Alliance Bay Realty,"$1,080,000 USD",40.0,31.0,52.0
+108,108,"4376 Hyde Cmn, Fremont, Alameda County, CA, 94538",4,4.0,"1,737",0.25 ac,Tim S. Wang ,Legacy Real Estate & Assoc.,"$1,399,800 USD",82.0,38.0,58.0
+109,109,"4350 Burke Way, Fremont, Alameda County, CA, 94536",3,2.0,"1,148",0.14 ac,Sanjiv Nayyar ,Redfin,"$1,299,000 USD",66.0,41.0,59.0
+110,110,"2359 Halogen Cmn 211, Fremont, Alameda County, CA, 94539",2,2.0,"1,886",0,Ted Chen ,"eXp Realty of California, Inc","$1,299,000 USD",30.0,52.0,64.0
+111,111,"38985 Gar TER, Fremont, Alameda County, CA, 94536",3,3.0,"1,400",0.023 ac,John Chung ,Keller Williams Palo Alto,"$1,150,000 USD",57.0,60.0,77.0
+112,112,"3878 Scamman Ct, Fremont, Alameda County, CA, 94538",4,3.0,"1,695",0.12 ac,Rick Geha ,"eXp Realty of California, Inc","$1,789,888 USD",82.0,36.0,69.0
+113,113,"480 Chardonnay Dr, Fremont, Alameda County, CA, 94539",4,3.0,"2,262",0.15 ac,Bobby Nijjar ,Legacy Real Estate & Assoc.,"$1,999,000 USD",27.0,37.0,51.0
+114,114,"3587 Wyndham Dr, Fremont, Alameda County, CA, 94536",4,2.0,"1,714",0.15 ac,Louis Heystek ,Compass,"$1,749,000 USD",49.0,42.0,54.0
+115,115,"2456 W Bayshore RD 5, Palo Alto, Santa Clara County, CA, 94303",2,2.0,906,0,Ming Wei Chien ,Keller Williams Realty - Cupertino,"$899,000 USD",27.0,18.0,81.0
+116,116,"480 E Okeefe ST 313, East Palo Alto, San Mateo County, CA, 94303",1,1.0,537,0,George Chopoff ,RE/MAX Star Properties,"$450,000 USD",62.0,0.0,80.0
+117,117,"231-241 Churchill AVE, Palo Alto, Santa Clara County, CA, 94301",8,4.0,"4,474",0.459 ac,Vivian Y. Jiang ,KW Santa Clara Valley Inc,"$14,988,000 USD",65.0,40.0,97.0
+118,118,"765 San Antonio Road #19 , Palo Alto, Santa Clara County, CA, 94303",2,2.0,"1,030",0,Josh Davis ,Davis & Company Realtors,"$950,000 USD",72.0,31.0,97.0
+119,119,"919 Amarillo AVE, Palo Alto, Santa Clara County, CA, 94303",6,5.0,"3,456",0.169 ac,Lan L. Bowling ,Keller Williams Palo Alto,"$5,498,000 USD",47.0,23.0,90.0
+120,120,"2477 Aztec WAY, Palo Alto, Santa Clara County, CA, 94303",4,2.0,"1,688",0.154 ac,Tim Proschold ,Christie's International Real Estate Sereno,"$3,298,000 USD",40.0,19.0,86.0
+121,121,"766 Bryant ST, Palo Alto, Santa Clara County, CA, 94301",3,2.0,"1,223",0,Riette Fallant ,KW Peninsula Estates,"$1,650,000 USD",98.0,55.0,100.0
+122,122,"1885 Guinda Street , Palo Alto, Santa Clara County, CA, 94303",4,3.0,"2,070",0,Margot Lockwood & Ricky Flores ,Golden Gate Sotheby's International Realty,"$3,999,000 USD",40.0,25.0,89.0
+123,123,"702 Garland Dr. , Palo Alto, Santa Clara County, CA, 94303",3,2.0,"1,976",0,Kathleen Pasin ,Christie's International Real Estate Sereno,"$3,498,000 USD",67.0,25.0,99.0
+124,124,"151 Melville AVE, Palo Alto, Santa Clara County, CA, 94301",6,5.0,"3,264",0.23 ac,Monica & Mandy Group ,Compass,"$4,750,000 USD",89.0,49.0,100.0
+125,125,"700 Ellsworth Place, Palo Alto, Santa Clara County, CA, 94303",1,2.0,0,0.102 ac,Josh Rubin ,Compass,"$1,498,000 USD",74.0,28.0,99.0
+126,126,"2260 ralmar, East Palo Alto, San Mateo County, CA, 94303",4,2.0,"1,200",0.057 ac,Vana Charan ,"eXp Realty of California, Inc","$850,000 USD",64.0,0.0,69.0
+127,127,"4250 El Camino Real C322, Palo Alto, Santa Clara County, CA, 94306",2,1.0,679,0,Michael Mendenhall ,Keller Williams San Jose Gateway,"$699,888 USD",66.0,46.0,92.0
+128,128,"231-241 Churchill AVE, Palo Alto, Santa Clara County, CA, 94301",8,5.0,"4,474",0.459 ac,Vivian Y. Jiang ,KW Santa Clara Valley Inc,"$14,988,000 USD",65.0,40.0,97.0
+129,129,"1005 Parkinson AVE, Palo Alto, Santa Clara County, CA, 94301",6,5.0,"4,103",0.169 ac,Leannah and Laurel ,Christie's International Real Estate Sereno,"$6,298,000 USD",44.0,35.0,79.0
+130,130,"555 Byron St 101, Palo Alto, Santa Clara County, CA, 94301",3,3.0,"1,810",0.03 ac,Sheila Zarekari ,Keller Williams Realty,"$1,450,000 USD",94.0,52.0,93.0
+131,131,"725 Loma Verde Ave #E, Palo Alto, Santa Clara County, CA, 94303",2,2.5,"1,384",0,Katy Thielke Straser ,Compass,"$1,679,000 USD",68.0,25.0,98.0
+132,132,"2736 Georgetown blvd, East Palo Alto, San Mateo County, CA, 94303",6,4.0,"2,090",0.137 ac,Alvin Prakash ,Intero Real Estate Services,"$1,198,999 USD",48.0,0.0,59.0
+133,133,"440 Cesano CT 314, Palo Alto, Santa Clara County, CA, 94306",2,2.0,"1,550",0,Monica & Mandy Group ,Compass,"$1,329,000 USD",75.0,47.0,94.0
+134,134,"3517 Ramona ST, Palo Alto, Santa Clara County, CA, 94306",3,2.0,"1,137",0.161 ac,Lan L. Bowling ,Keller Williams Palo Alto,"$3,098,000 USD",57.0,38.0,97.0
+135,135,"2216 Clarke Ave, East Palo Alto, San Mateo County, CA, 94303",6,9.0,"5,920",0.21 ac,Rajni Gupta ,REALTY EXPERTS,"$4,200,000 USD",67.0,0.0,77.0
+136,136,"674 Webster St , Palo Alto, Santa Clara County, CA, 94301",3,2.5,"1,552",0,Tim Anderson ,Christie's International Real Estate Sereno,"$1,995,000 USD",91.0,51.0,94.0
+137,137,"480 E O'Keefe ST 217, East Palo Alto, Santa Clara County, CA, 94303",1,1.0,613,0,Colleen Foraker ,Compass,"$475,000 USD",0.0,0.0,0.0
+138,138,"3389 Saint Michael DR, Palo Alto, Santa Clara County, CA, 94306",4,2.0,"1,367",0.151 ac,Molly Foy Rich ,Midtown Realty,"$3,295,000 USD",37.0,25.0,90.0
+139,139,"2456 W Bayshore RD 5, Palo Alto, Santa Clara County, CA, 94303",2,2.0,906,0,Ming Wei Chien ,Keller Williams Realty - Cupertino,"$899,000 USD",27.0,18.0,81.0
+140,140,"480 E Okeefe ST 313, East Palo Alto, San Mateo County, CA, 94303",1,1.0,537,0,George Chopoff ,RE/MAX Star Properties,"$450,000 USD",62.0,0.0,80.0
+141,141,"231-241 Churchill AVE, Palo Alto, Santa Clara County, CA, 94301",8,4.0,"4,474",0.459 ac,Vivian Y. Jiang ,KW Santa Clara Valley Inc,"$14,988,000 USD",65.0,40.0,97.0
+142,142,"765 San Antonio Road #19 , Palo Alto, Santa Clara County, CA, 94303",2,2.0,"1,030",0,Josh Davis ,Davis & Company Realtors,"$950,000 USD",72.0,31.0,97.0
+143,143,"919 Amarillo AVE, Palo Alto, Santa Clara County, CA, 94303",6,5.0,"3,456",0.169 ac,Lan L. Bowling ,Keller Williams Palo Alto,"$5,498,000 USD",47.0,23.0,90.0
+144,144,"2477 Aztec WAY, Palo Alto, Santa Clara County, CA, 94303",4,2.0,"1,688",0.154 ac,Tim Proschold ,Christie's International Real Estate Sereno,"$3,298,000 USD",40.0,19.0,86.0
+145,145,"766 Bryant ST, Palo Alto, Santa Clara County, CA, 94301",3,2.0,"1,223",0,Riette Fallant ,KW Peninsula Estates,"$1,650,000 USD",98.0,55.0,100.0
+146,146,"1885 Guinda Street , Palo Alto, Santa Clara County, CA, 94303",4,3.0,"2,070",0,Margot Lockwood & Ricky Flores ,Golden Gate Sotheby's International Realty,"$3,999,000 USD",40.0,25.0,89.0
+147,147,"702 Garland Dr. , Palo Alto, Santa Clara County, CA, 94303",3,2.0,"1,976",0,Kathleen Pasin ,Christie's International Real Estate Sereno,"$3,498,000 USD",67.0,25.0,99.0
+148,148,"151 Melville AVE, Palo Alto, Santa Clara County, CA, 94301",6,5.0,"3,264",0.23 ac,Monica & Mandy Group ,Compass,"$4,750,000 USD",89.0,49.0,100.0
+149,149,"700 Ellsworth Place, Palo Alto, Santa Clara County, CA, 94303",1,2.0,0,0.102 ac,Josh Rubin ,Compass,"$1,498,000 USD",74.0,28.0,99.0
+150,150,"2260 ralmar, East Palo Alto, San Mateo County, CA, 94303",4,2.0,"1,200",0.057 ac,Vana Charan ,"eXp Realty of California, Inc","$850,000 USD",64.0,0.0,69.0
+151,151,"4250 El Camino Real C322, Palo Alto, Santa Clara County, CA, 94306",2,1.0,679,0,Michael Mendenhall ,Keller Williams San Jose Gateway,"$699,888 USD",66.0,46.0,92.0
+152,152,"231-241 Churchill AVE, Palo Alto, Santa Clara County, CA, 94301",8,5.0,"4,474",0.459 ac,Vivian Y. Jiang ,KW Santa Clara Valley Inc,"$14,988,000 USD",65.0,40.0,97.0
+153,153,"1005 Parkinson AVE, Palo Alto, Santa Clara County, CA, 94301",6,5.0,"4,103",0.169 ac,Leannah and Laurel ,Christie's International Real Estate Sereno,"$6,298,000 USD",44.0,35.0,79.0
+154,154,"555 Byron St 101, Palo Alto, Santa Clara County, CA, 94301",3,3.0,"1,810",0.03 ac,Sheila Zarekari ,Keller Williams Realty,"$1,450,000 USD",94.0,52.0,93.0
+155,155,"725 Loma Verde Ave #E, Palo Alto, Santa Clara County, CA, 94303",2,2.5,"1,384",0,Katy Thielke Straser ,Compass,"$1,679,000 USD",68.0,25.0,98.0
+156,156,"2736 Georgetown blvd, East Palo Alto, San Mateo County, CA, 94303",6,4.0,"2,090",0.137 ac,Alvin Prakash ,Intero Real Estate Services,"$1,198,999 USD",48.0,0.0,59.0
+157,157,"440 Cesano CT 314, Palo Alto, Santa Clara County, CA, 94306",2,2.0,"1,550",0,Monica & Mandy Group ,Compass,"$1,329,000 USD",75.0,47.0,94.0
+158,158,"3517 Ramona ST, Palo Alto, Santa Clara County, CA, 94306",3,2.0,"1,137",0.161 ac,Lan L. Bowling ,Keller Williams Palo Alto,"$3,098,000 USD",57.0,38.0,97.0
+159,159,"2216 Clarke Ave, East Palo Alto, San Mateo County, CA, 94303",6,9.0,"5,920",0.21 ac,Rajni Gupta ,REALTY EXPERTS,"$4,200,000 USD",67.0,0.0,77.0
+160,160,"674 Webster St , Palo Alto, Santa Clara County, CA, 94301",3,2.5,"1,552",0,Tim Anderson ,Christie's International Real Estate Sereno,"$1,995,000 USD",91.0,51.0,94.0
+161,161,"480 E O'Keefe ST 217, East Palo Alto, Santa Clara County, CA, 94303",1,1.0,613,0,Colleen Foraker ,Compass,"$475,000 USD",0.0,0.0,0.0
+162,162,"3389 Saint Michael DR, Palo Alto, Santa Clara County, CA, 94306",4,2.0,"1,367",0.151 ac,Molly Foy Rich ,Midtown Realty,"$3,295,000 USD",37.0,25.0,90.0
+163,163,"3656 El Grande CT, San Jose, Santa Clara County, CA, 95132",5,3.0,"3,075",0.344 ac,Leland Lowe ,Keller Williams Realty-Silicon Valley,"$2,150,000 USD",11.0,22.0,22.0
+164,164,"1686 Hicks AVE, San Jose, Santa Clara County, CA, 95125",3,2.0,"1,578",0.157 ac,Mike D'Ambrosio ,Intero Real Estate Services,"$1,599,000 USD",63.0,38.0,68.0
+165,165,"1033 Thornton WAY, San Jose, Santa Clara County, CA, 95128",3,2.5,972,0.17 ac,The Jamison Team ,Tuscana Properties,"$1,449,000 USD",41.0,44.0,62.0
+166,166,"411 Park AVE 334, San Jose, Santa Clara County, CA, 95110",2,2.0,"1,013",0,Sandra Lilly ,Christie's International Real Estate Sereno,"$775,000 USD",82.0,70.0,90.0
+167,167,"648 Autumn Meadow , San Jose, Santa Clara County, CA, 95123",3,3.5,"1,793",0,Tom Yore ,Keller Williams Bay Area Estates,"$1,149,000 USD",53.0,50.0,64.0
+168,168,"2777 Richland AVE, San Jose, Santa Clara County, CA, 95125",4,4.0,"3,010",0.275 ac,Rob Roham ,Compass,"$3,488,888 USD",57.0,31.0,66.0
+169,169,"1372 Mckinley CT, San Jose, Santa Clara County, CA, 95126",3,3.0,"1,539",0,Maria Afzal ,Keller Williams Palo Alto,"$1,150,000 USD",65.0,46.0,80.0
+170,170,"1552 Four Oaks CIR, San Jose, Santa Clara County, CA, 95131",2,2.0,992,0,Himalini Jayaraman ,Legacy Real Estate & Associates,"$685,000 USD",23.0,46.0,51.0
+171,171,"2150 Almaden Rd 33, San Jose, Santa Clara County, CA, 95125",2,2.0,"1,000",0,Marc Blumthal ,Alliance Manufactured Homes,"$193,888 USD",43.0,43.0,76.0
+172,172,"2637 Carlo Scimeca Drive , San Jose, Santa Clara County, CA, 95132",4,2.0,"1,305",0,Ed Gory ,Intero,"$1,349,888 USD",53.0,45.0,57.0
+173,173,"4425 Norwalk DR 18, San Jose, Santa Clara County, CA, 95129",2,2.0,"1,099",0,Caren Spencer ,Monterey Bay Properties,"$596,000 USD",58.0,41.0,68.0
+174,174,"175 W Saint James ST 106, San Jose, Santa Clara County, CA, 95110",2,4.0,"1,984",0,Lisa Lyons ,Compass,"$1,080,000 USD",84.0,69.0,90.0
+175,175,"697 Adagio WAY, San Jose, Santa Clara County, CA, 95111",3,2.0,"1,300",0.118 ac,Cecile Tu ,Elite Realty Services,"$1,075,000 USD",14.0,37.0,18.0
+176,176,"3178 Cropley AVE, San Jose, Santa Clara County, CA, 95132",2,2.0,888,0,The Jamison Team ,Tuscana Properties,"$685,000 USD",47.0,36.0,52.0
+177,177,"6014 Admiralty PL, San Jose, Santa Clara County, CA, 95123",3,3.0,"1,328",0.044 ac,Carol Pefley ,Realty World Dominion,"$1,198,888 USD",44.0,29.0,44.0
+178,178,"4871 Poston DR, San Jose, Santa Clara County, CA, 95136",4,2.0,"1,793",0.174 ac,Trung Lam ,KW Silicon City,"$1,295,000 USD",53.0,46.0,65.0
+179,179,"2026 Heather Glen DR, San Jose, Santa Clara County, CA, 95130",3,3.0,"1,751",0.045 ac,Tom Yore ,KW Bay Area Estates Saratoga,"$1,799,000 USD",74.0,39.0,72.0
+180,180,"1648 Fairlawn AVE, San Jose, Santa Clara County, CA, 95125",4,2.0,"1,618",0.144 ac,Kendra Gaeta ,Sereno,"$2,250,000 USD",30.0,34.0,48.0
+181,181,"1534 Kingman AVE, San Jose, Santa Clara County, CA, 95128",3,2.0,"1,214",0.147 ac,Melinda Doutt ,Intero Real Estate Services,"$1,300,000 USD",62.0,47.0,72.0
+182,182,"1318 Weathersfield WAY, San Jose, Santa Clara County, CA, 95118",3,2.0,"2,302",0.309 ac,Mike D'Ambrosio ,Intero Real Estate Services,"$2,249,000 USD",50.0,33.0,57.0
+183,183,"3291 Floresta DR, San Jose, Santa Clara County, CA, 95148",3,2.0,"1,648",0.147 ac,Awne Elrabadi ,eXp Realty of California Inc.,"$1,299,999 USD",15.0,24.0,44.0
+184,184,"1967 Josephine AVE, San Jose, Santa Clara County, CA, 95124",3,2.0,"1,665",0.162 ac,Riley McWilliams ,eXp Realty of California Inc.,"$1,350,000 USD",81.0,38.0,70.0
+185,185,"536 Weybridge DR, San Jose, Santa Clara County, CA, 95123",4,3.0,"2,256",0.124 ac,Dave Clark ,Keller Williams Realty-Silicon Valley,"$1,648,000 USD",16.0,0.0,8.0
+186,186,"5983 Prospect RD, San Jose, Santa Clara County, CA, 95129",4,2.0,"1,687",0.138 ac,Shanne Carvalho ,eXp Realty of California Inc.,"$2,698,888 USD",24.0,0.0,60.0
+187,187,"3656 El Grande CT, San Jose, Santa Clara County, CA, 95132",5,3.0,"3,075",0.344 ac,Leland Lowe ,Keller Williams Realty-Silicon Valley,"$2,150,000 USD",11.0,22.0,22.0
+188,188,"1686 Hicks AVE, San Jose, Santa Clara County, CA, 95125",3,2.0,"1,578",0.157 ac,Mike D'Ambrosio ,Intero Real Estate Services,"$1,599,000 USD",63.0,38.0,68.0
+189,189,"1033 Thornton WAY, San Jose, Santa Clara County, CA, 95128",3,2.5,972,0.17 ac,The Jamison Team ,Tuscana Properties,"$1,449,000 USD",41.0,44.0,62.0
+190,190,"411 Park AVE 334, San Jose, Santa Clara County, CA, 95110",2,2.0,"1,013",0,Sandra Lilly ,Christie's International Real Estate Sereno,"$775,000 USD",82.0,70.0,90.0
+191,191,"648 Autumn Meadow , San Jose, Santa Clara County, CA, 95123",3,3.5,"1,793",0,Tom Yore ,Keller Williams Bay Area Estates,"$1,149,000 USD",53.0,50.0,64.0
+192,192,"2777 Richland AVE, San Jose, Santa Clara County, CA, 95125",4,4.0,"3,010",0.275 ac,Rob Roham ,Compass,"$3,488,888 USD",57.0,31.0,66.0
+193,193,"1372 Mckinley CT, San Jose, Santa Clara County, CA, 95126",3,3.0,"1,539",0,Maria Afzal ,Keller Williams Palo Alto,"$1,150,000 USD",65.0,46.0,80.0
+194,194,"1552 Four Oaks CIR, San Jose, Santa Clara County, CA, 95131",2,2.0,992,0,Himalini Jayaraman ,Legacy Real Estate & Associates,"$685,000 USD",23.0,46.0,51.0
+195,195,"2150 Almaden Rd 33, San Jose, Santa Clara County, CA, 95125",2,2.0,"1,000",0,Marc Blumthal ,Alliance Manufactured Homes,"$193,888 USD",43.0,43.0,76.0
+196,196,"2637 Carlo Scimeca Drive , San Jose, Santa Clara County, CA, 95132",4,2.0,"1,305",0,Ed Gory ,Intero,"$1,349,888 USD",53.0,45.0,57.0
+197,197,"4425 Norwalk DR 18, San Jose, Santa Clara County, CA, 95129",2,2.0,"1,099",0,Caren Spencer ,Monterey Bay Properties,"$596,000 USD",58.0,41.0,68.0
+198,198,"175 W Saint James ST 106, San Jose, Santa Clara County, CA, 95110",2,4.0,"1,984",0,Lisa Lyons ,Compass,"$1,080,000 USD",84.0,69.0,90.0
+199,199,"697 Adagio WAY, San Jose, Santa Clara County, CA, 95111",3,2.0,"1,300",0.118 ac,Cecile Tu ,Elite Realty Services,"$1,075,000 USD",14.0,37.0,18.0
+200,200,"3178 Cropley AVE, San Jose, Santa Clara County, CA, 95132",2,2.0,888,0,The Jamison Team ,Tuscana Properties,"$685,000 USD",47.0,36.0,52.0
+201,201,"6014 Admiralty PL, San Jose, Santa Clara County, CA, 95123",3,3.0,"1,328",0.044 ac,Carol Pefley ,Realty World Dominion,"$1,198,888 USD",44.0,29.0,44.0
+202,202,"4871 Poston DR, San Jose, Santa Clara County, CA, 95136",4,2.0,"1,793",0.174 ac,Trung Lam ,KW Silicon City,"$1,295,000 USD",53.0,46.0,65.0
+203,203,"2026 Heather Glen DR, San Jose, Santa Clara County, CA, 95130",3,3.0,"1,751",0.045 ac,Tom Yore ,KW Bay Area Estates Saratoga,"$1,799,000 USD",74.0,39.0,72.0
+204,204,"1648 Fairlawn AVE, San Jose, Santa Clara County, CA, 95125",4,2.0,"1,618",0.144 ac,Kendra Gaeta ,Sereno,"$2,250,000 USD",30.0,34.0,48.0
+205,205,"1534 Kingman AVE, San Jose, Santa Clara County, CA, 95128",3,2.0,"1,214",0.147 ac,Melinda Doutt ,Intero Real Estate Services,"$1,300,000 USD",62.0,47.0,72.0
+206,206,"1318 Weathersfield WAY, San Jose, Santa Clara County, CA, 95118",3,2.0,"2,302",0.309 ac,Mike D'Ambrosio ,Intero Real Estate Services,"$2,249,000 USD",50.0,33.0,57.0
+207,207,"3291 Floresta DR, San Jose, Santa Clara County, CA, 95148",3,2.0,"1,648",0.147 ac,Awne Elrabadi ,eXp Realty of California Inc.,"$1,299,999 USD",15.0,24.0,44.0
+208,208,"1967 Josephine AVE, San Jose, Santa Clara County, CA, 95124",3,2.0,"1,665",0.162 ac,Riley McWilliams ,eXp Realty of California Inc.,"$1,350,000 USD",81.0,38.0,70.0
+209,209,"536 Weybridge DR, San Jose, Santa Clara County, CA, 95123",4,3.0,"2,256",0.124 ac,Dave Clark ,Keller Williams Realty-Silicon Valley,"$1,648,000 USD",16.0,0.0,8.0
+210,210,"5983 Prospect RD, San Jose, Santa Clara County, CA, 95129",4,2.0,"1,687",0.138 ac,Shanne Carvalho ,eXp Realty of California Inc.,"$2,698,888 USD",24.0,0.0,60.0
+211,211,"3656 El Grande CT, San Jose, Santa Clara County, CA, 95132",5,3.0,"3,075",0.344 ac,Leland Lowe ,Keller Williams Realty-Silicon Valley,"$2,150,000 USD",11.0,22.0,22.0
+212,212,"1686 Hicks AVE, San Jose, Santa Clara County, CA, 95125",3,2.0,"1,578",0.157 ac,Mike D'Ambrosio ,Intero Real Estate Services,"$1,599,000 USD",63.0,38.0,68.0
+213,213,"1033 Thornton WAY, San Jose, Santa Clara County, CA, 95128",3,2.5,972,0.17 ac,The Jamison Team ,Tuscana Properties,"$1,449,000 USD",41.0,44.0,62.0
+214,214,"411 Park AVE 334, San Jose, Santa Clara County, CA, 95110",2,2.0,"1,013",0,Sandra Lilly ,Christie's International Real Estate Sereno,"$775,000 USD",82.0,70.0,90.0
+215,215,"648 Autumn Meadow , San Jose, Santa Clara County, CA, 95123",3,3.5,"1,793",0,Tom Yore ,Keller Williams Bay Area Estates,"$1,149,000 USD",53.0,50.0,64.0
+216,216,"2777 Richland AVE, San Jose, Santa Clara County, CA, 95125",4,4.0,"3,010",0.275 ac,Rob Roham ,Compass,"$3,488,888 USD",57.0,31.0,66.0
+217,217,"1372 Mckinley CT, San Jose, Santa Clara County, CA, 95126",3,3.0,"1,539",0,Maria Afzal ,Keller Williams Palo Alto,"$1,150,000 USD",65.0,46.0,80.0
+218,218,"1552 Four Oaks CIR, San Jose, Santa Clara County, CA, 95131",2,2.0,992,0,Himalini Jayaraman ,Legacy Real Estate & Associates,"$685,000 USD",23.0,46.0,51.0
+219,219,"2150 Almaden Rd 33, San Jose, Santa Clara County, CA, 95125",2,2.0,"1,000",0,Marc Blumthal ,Alliance Manufactured Homes,"$193,888 USD",43.0,43.0,76.0
+220,220,"2637 Carlo Scimeca Drive , San Jose, Santa Clara County, CA, 95132",4,2.0,"1,305",0,Ed Gory ,Intero,"$1,349,888 USD",53.0,45.0,57.0
+221,221,"4425 Norwalk DR 18, San Jose, Santa Clara County, CA, 95129",2,2.0,"1,099",0,Caren Spencer ,Monterey Bay Properties,"$596,000 USD",58.0,41.0,68.0
+222,222,"175 W Saint James ST 106, San Jose, Santa Clara County, CA, 95110",2,4.0,"1,984",0,Lisa Lyons ,Compass,"$1,080,000 USD",84.0,69.0,90.0
+223,223,"697 Adagio WAY, San Jose, Santa Clara County, CA, 95111",3,2.0,"1,300",0.118 ac,Cecile Tu ,Elite Realty Services,"$1,075,000 USD",14.0,37.0,18.0
+224,224,"3178 Cropley AVE, San Jose, Santa Clara County, CA, 95132",2,2.0,888,0,The Jamison Team ,Tuscana Properties,"$685,000 USD",47.0,36.0,52.0
+225,225,"6014 Admiralty PL, San Jose, Santa Clara County, CA, 95123",3,3.0,"1,328",0.044 ac,Carol Pefley ,Realty World Dominion,"$1,198,888 USD",44.0,29.0,44.0
+226,226,"4871 Poston DR, San Jose, Santa Clara County, CA, 95136",4,2.0,"1,793",0.174 ac,Trung Lam ,KW Silicon City,"$1,295,000 USD",53.0,46.0,65.0
+227,227,"2026 Heather Glen DR, San Jose, Santa Clara County, CA, 95130",3,3.0,"1,751",0.045 ac,Tom Yore ,KW Bay Area Estates Saratoga,"$1,799,000 USD",74.0,39.0,72.0
+228,228,"1648 Fairlawn AVE, San Jose, Santa Clara County, CA, 95125",4,2.0,"1,618",0.144 ac,Kendra Gaeta ,Sereno,"$2,250,000 USD",30.0,34.0,48.0
+229,229,"1534 Kingman AVE, San Jose, Santa Clara County, CA, 95128",3,2.0,"1,214",0.147 ac,Melinda Doutt ,Intero Real Estate Services,"$1,300,000 USD",62.0,47.0,72.0
+230,230,"1318 Weathersfield WAY, San Jose, Santa Clara County, CA, 95118",3,2.0,"2,302",0.309 ac,Mike D'Ambrosio ,Intero Real Estate Services,"$2,249,000 USD",50.0,33.0,57.0
+231,231,"3291 Floresta DR, San Jose, Santa Clara County, CA, 95148",3,2.0,"1,648",0.147 ac,Awne Elrabadi ,eXp Realty of California Inc.,"$1,299,999 USD",15.0,24.0,44.0
+232,232,"1967 Josephine AVE, San Jose, Santa Clara County, CA, 95124",3,2.0,"1,665",0.162 ac,Riley McWilliams ,eXp Realty of California Inc.,"$1,350,000 USD",81.0,38.0,70.0
+233,233,"536 Weybridge DR, San Jose, Santa Clara County, CA, 95123",4,3.0,"2,256",0.124 ac,Dave Clark ,Keller Williams Realty-Silicon Valley,"$1,648,000 USD",16.0,0.0,8.0
+234,234,"5983 Prospect RD, San Jose, Santa Clara County, CA, 95129",4,2.0,"1,687",0.138 ac,Shanne Carvalho ,eXp Realty of California Inc.,"$2,698,888 USD",24.0,0.0,60.0
+235,235,"3656 El Grande CT, San Jose, Santa Clara County, CA, 95132",5,3.0,"3,075",0.344 ac,Leland Lowe ,Keller Williams Realty-Silicon Valley,"$2,150,000 USD",11.0,22.0,22.0
+236,236,"1686 Hicks AVE, San Jose, Santa Clara County, CA, 95125",3,2.0,"1,578",0.157 ac,Mike D'Ambrosio ,Intero Real Estate Services,"$1,599,000 USD",63.0,38.0,68.0
+237,237,"1033 Thornton WAY, San Jose, Santa Clara County, CA, 95128",3,2.5,972,0.17 ac,The Jamison Team ,Tuscana Properties,"$1,449,000 USD",41.0,44.0,62.0
+238,238,"411 Park AVE 334, San Jose, Santa Clara County, CA, 95110",2,2.0,"1,013",0,Sandra Lilly ,Christie's International Real Estate Sereno,"$775,000 USD",82.0,70.0,90.0
+239,239,"648 Autumn Meadow , San Jose, Santa Clara County, CA, 95123",3,3.5,"1,793",0,Tom Yore ,Keller Williams Bay Area Estates,"$1,149,000 USD",53.0,50.0,64.0
+240,240,"2777 Richland AVE, San Jose, Santa Clara County, CA, 95125",4,4.0,"3,010",0.275 ac,Rob Roham ,Compass,"$3,488,888 USD",57.0,31.0,66.0
+241,241,"1372 Mckinley CT, San Jose, Santa Clara County, CA, 95126",3,3.0,"1,539",0,Maria Afzal ,Keller Williams Palo Alto,"$1,150,000 USD",65.0,46.0,80.0
+242,242,"1552 Four Oaks CIR, San Jose, Santa Clara County, CA, 95131",2,2.0,992,0,Himalini Jayaraman ,Legacy Real Estate & Associates,"$685,000 USD",23.0,46.0,51.0
+243,243,"2150 Almaden Rd 33, San Jose, Santa Clara County, CA, 95125",2,2.0,"1,000",0,Marc Blumthal ,Alliance Manufactured Homes,"$193,888 USD",43.0,43.0,76.0
+244,244,"2637 Carlo Scimeca Drive , San Jose, Santa Clara County, CA, 95132",4,2.0,"1,305",0,Ed Gory ,Intero,"$1,349,888 USD",53.0,45.0,57.0
+245,245,"4425 Norwalk DR 18, San Jose, Santa Clara County, CA, 95129",2,2.0,"1,099",0,Caren Spencer ,Monterey Bay Properties,"$596,000 USD",58.0,41.0,68.0
+246,246,"175 W Saint James ST 106, San Jose, Santa Clara County, CA, 95110",2,4.0,"1,984",0,Lisa Lyons ,Compass,"$1,080,000 USD",84.0,69.0,90.0
+247,247,"697 Adagio WAY, San Jose, Santa Clara County, CA, 95111",3,2.0,"1,300",0.118 ac,Cecile Tu ,Elite Realty Services,"$1,075,000 USD",14.0,37.0,18.0
+248,248,"3178 Cropley AVE, San Jose, Santa Clara County, CA, 95132",2,2.0,888,0,The Jamison Team ,Tuscana Properties,"$685,000 USD",47.0,36.0,52.0
+249,249,"6014 Admiralty PL, San Jose, Santa Clara County, CA, 95123",3,3.0,"1,328",0.044 ac,Carol Pefley ,Realty World Dominion,"$1,198,888 USD",44.0,29.0,44.0
+250,250,"4871 Poston DR, San Jose, Santa Clara County, CA, 95136",4,2.0,"1,793",0.174 ac,Trung Lam ,KW Silicon City,"$1,295,000 USD",53.0,46.0,65.0
+251,251,"2026 Heather Glen DR, San Jose, Santa Clara County, CA, 95130",3,3.0,"1,751",0.045 ac,Tom Yore ,KW Bay Area Estates Saratoga,"$1,799,000 USD",74.0,39.0,72.0
+252,252,"1648 Fairlawn AVE, San Jose, Santa Clara County, CA, 95125",4,2.0,"1,618",0.144 ac,Kendra Gaeta ,Sereno,"$2,250,000 USD",30.0,34.0,48.0
+253,253,"1534 Kingman AVE, San Jose, Santa Clara County, CA, 95128",3,2.0,"1,214",0.147 ac,Melinda Doutt ,Intero Real Estate Services,"$1,300,000 USD",62.0,47.0,72.0
+254,254,"1318 Weathersfield WAY, San Jose, Santa Clara County, CA, 95118",3,2.0,"2,302",0.309 ac,Mike D'Ambrosio ,Intero Real Estate Services,"$2,249,000 USD",50.0,33.0,57.0
+255,255,"3291 Floresta DR, San Jose, Santa Clara County, CA, 95148",3,2.0,"1,648",0.147 ac,Awne Elrabadi ,eXp Realty of California Inc.,"$1,299,999 USD",15.0,24.0,44.0
+256,256,"1967 Josephine AVE, San Jose, Santa Clara County, CA, 95124",3,2.0,"1,665",0.162 ac,Riley McWilliams ,eXp Realty of California Inc.,"$1,350,000 USD",81.0,38.0,70.0
+257,257,"536 Weybridge DR, San Jose, Santa Clara County, CA, 95123",4,3.0,"2,256",0.124 ac,Dave Clark ,Keller Williams Realty-Silicon Valley,"$1,648,000 USD",16.0,0.0,8.0
+258,258,"5983 Prospect RD, San Jose, Santa Clara County, CA, 95129",4,2.0,"1,687",0.138 ac,Shanne Carvalho ,eXp Realty of California Inc.,"$2,698,888 USD",24.0,0.0,60.0
+259,259,"3656 El Grande CT, San Jose, Santa Clara County, CA, 95132",5,3.0,"3,075",0.344 ac,Leland Lowe ,Keller Williams Realty-Silicon Valley,"$2,150,000 USD",11.0,22.0,22.0
+260,260,"1686 Hicks AVE, San Jose, Santa Clara County, CA, 95125",3,2.0,"1,578",0.157 ac,Mike D'Ambrosio ,Intero Real Estate Services,"$1,599,000 USD",63.0,38.0,68.0
+261,261,"1033 Thornton WAY, San Jose, Santa Clara County, CA, 95128",3,2.5,972,0.17 ac,The Jamison Team ,Tuscana Properties,"$1,449,000 USD",41.0,44.0,62.0
+262,262,"411 Park AVE 334, San Jose, Santa Clara County, CA, 95110",2,2.0,"1,013",0,Sandra Lilly ,Christie's International Real Estate Sereno,"$775,000 USD",82.0,70.0,90.0
+263,263,"648 Autumn Meadow , San Jose, Santa Clara County, CA, 95123",3,3.5,"1,793",0,Tom Yore ,Keller Williams Bay Area Estates,"$1,149,000 USD",53.0,50.0,64.0
+264,264,"2777 Richland AVE, San Jose, Santa Clara County, CA, 95125",4,4.0,"3,010",0.275 ac,Rob Roham ,Compass,"$3,488,888 USD",57.0,31.0,66.0
+265,265,"1372 Mckinley CT, San Jose, Santa Clara County, CA, 95126",3,3.0,"1,539",0,Maria Afzal ,Keller Williams Palo Alto,"$1,150,000 USD",65.0,46.0,80.0
+266,266,"1552 Four Oaks CIR, San Jose, Santa Clara County, CA, 95131",2,2.0,992,0,Himalini Jayaraman ,Legacy Real Estate & Associates,"$685,000 USD",23.0,46.0,51.0
+267,267,"2150 Almaden Rd 33, San Jose, Santa Clara County, CA, 95125",2,2.0,"1,000",0,Marc Blumthal ,Alliance Manufactured Homes,"$193,888 USD",43.0,43.0,76.0
+268,268,"2637 Carlo Scimeca Drive , San Jose, Santa Clara County, CA, 95132",4,2.0,"1,305",0,Ed Gory ,Intero,"$1,349,888 USD",53.0,45.0,57.0
+269,269,"4425 Norwalk DR 18, San Jose, Santa Clara County, CA, 95129",2,2.0,"1,099",0,Caren Spencer ,Monterey Bay Properties,"$596,000 USD",58.0,41.0,68.0
+270,270,"175 W Saint James ST 106, San Jose, Santa Clara County, CA, 95110",2,4.0,"1,984",0,Lisa Lyons ,Compass,"$1,080,000 USD",84.0,69.0,90.0
+271,271,"697 Adagio WAY, San Jose, Santa Clara County, CA, 95111",3,2.0,"1,300",0.118 ac,Cecile Tu ,Elite Realty Services,"$1,075,000 USD",14.0,37.0,18.0
+272,272,"3178 Cropley AVE, San Jose, Santa Clara County, CA, 95132",2,2.0,888,0,The Jamison Team ,Tuscana Properties,"$685,000 USD",47.0,36.0,52.0
+273,273,"6014 Admiralty PL, San Jose, Santa Clara County, CA, 95123",3,3.0,"1,328",0.044 ac,Carol Pefley ,Realty World Dominion,"$1,198,888 USD",44.0,29.0,44.0
+274,274,"4871 Poston DR, San Jose, Santa Clara County, CA, 95136",4,2.0,"1,793",0.174 ac,Trung Lam ,KW Silicon City,"$1,295,000 USD",53.0,46.0,65.0
+275,275,"2026 Heather Glen DR, San Jose, Santa Clara County, CA, 95130",3,3.0,"1,751",0.045 ac,Tom Yore ,KW Bay Area Estates Saratoga,"$1,799,000 USD",74.0,39.0,72.0
+276,276,"1648 Fairlawn AVE, San Jose, Santa Clara County, CA, 95125",4,2.0,"1,618",0.144 ac,Kendra Gaeta ,Sereno,"$2,250,000 USD",30.0,34.0,48.0
+277,277,"1534 Kingman AVE, San Jose, Santa Clara County, CA, 95128",3,2.0,"1,214",0.147 ac,Melinda Doutt ,Intero Real Estate Services,"$1,300,000 USD",62.0,47.0,72.0
+278,278,"1318 Weathersfield WAY, San Jose, Santa Clara County, CA, 95118",3,2.0,"2,302",0.309 ac,Mike D'Ambrosio ,Intero Real Estate Services,"$2,249,000 USD",50.0,33.0,57.0
+279,279,"3291 Floresta DR, San Jose, Santa Clara County, CA, 95148",3,2.0,"1,648",0.147 ac,Awne Elrabadi ,eXp Realty of California Inc.,"$1,299,999 USD",15.0,24.0,44.0
+280,280,"1967 Josephine AVE, San Jose, Santa Clara County, CA, 95124",3,2.0,"1,665",0.162 ac,Riley McWilliams ,eXp Realty of California Inc.,"$1,350,000 USD",81.0,38.0,70.0
+281,281,"536 Weybridge DR, San Jose, Santa Clara County, CA, 95123",4,3.0,"2,256",0.124 ac,Dave Clark ,Keller Williams Realty-Silicon Valley,"$1,648,000 USD",16.0,0.0,8.0
+282,282,"5983 Prospect RD, San Jose, Santa Clara County, CA, 95129",4,2.0,"1,687",0.138 ac,Shanne Carvalho ,eXp Realty of California Inc.,"$2,698,888 USD",24.0,0.0,60.0
+283,283,"4424 Canterbury Way, Union City, Alameda County, CA, 94587",5,4.0,"2,392",0.11 ac,Rick Geha ,"eXp Realty of California, Inc","$1,649,888 USD",69.0,0.0,49.0
+284,284,"2167 Medallion Dr 3, Union City, Alameda County, CA, 94587",3,2.0,"1,134",0.18 ac,Vishal Sharma ,Alliance Bay Realty,"$699,888 USD",36.0,0.0,46.0
+285,285,"32414 Regents Blvd, Union City, Alameda County, CA, 94587",3,3.0,"1,792",0.19 ac,Navi Dhillon ,REALTY EXPERTS,"$1,550,000 USD",44.0,0.0,45.0
+286,286,"34894 Herringbone Way, Union City, Alameda County, CA, 94587",4,3.0,"1,988",0.08 ac,Simon Kiang ,Re/Max Accord,"$1,399,000 USD",65.0,0.0,53.0
+287,287,"73 Palm Dr., Union City, Alameda County, CA, 94587",3,2.0,"1,422",0,Alex Chow ,Alliance Manufactured Homes,"$425,000 USD",16.0,0.0,52.0
+288,288,"4263 Marsten Ave, Union City, Alameda County, CA, 94587",6,4.0,"2,966",0.18 ac,Bryan VanHeusen ,Legacy Real Estate & Assoc.,"$1,540,000 USD",72.0,0.0,56.0
+289,289,"32509 Deborah DR, Union City, Alameda County, CA, 94587",4,3.0,"2,031",0.151 ac,Nila Patel ,Keller Williams Realty - Cupertino,"$1,650,000 USD",20.0,0.0,42.0
+290,290,"33039 Alicante Ter, Union City, Alameda County, CA, 94587",3,3.0,"1,344",1.42 ac,Sunmeet Anand ,WDB Realty and Finance Inc.,"$899,000 USD",28.0,0.0,43.0
+291,291,"31243 Fredi St, Union City, Alameda County, CA, 94587",2,3.0,815,0.1 ac,Elizabeth Vera ,REALTY EXPERTS,"$775,000 USD",86.0,0.0,66.0
+292,292,"3179 San Rafael Way, Union City, Alameda County, CA, 94587",4,2.0,"1,732",0.15 ac,Rene Nieva ,Re/Max Active Realty,"$1,398,000 USD",68.0,0.0,56.0
+293,293,"32881 Arbor Vine Dr 4, Union City, Alameda County, CA, 94587",2,3.0,"1,362",3.57 ac,Jason Phuong Pham ,Intero Real Estate Services,"$749,000 USD",40.0,0.0,45.0
+294,294,"4564 Niland ST, Union City, Alameda County, CA, 94587",6,5.0,"3,945",0.138 ac,Gary (gang) Liu ,Compass,"$2,580,000 USD",17.0,0.0,59.0
+295,295,"4201 Apollo Cir, Union City, Alameda County, CA, 94587",4,3.0,"1,583",0.04 ac,Christine Wong ,United Brokers Real Estate,"$819,000 USD",80.0,0.0,57.0
+296,296,"2172 Skylark CT 2, Union City, Alameda County, CA, 94587",2,3.0,903,0,Grover Barbaran ,Realty One Group Infinity,"$554,900 USD",83.0,0.0,73.0
+297,297,"32455 Capitola Ct, Union City, Alameda County, CA, 94587",5,3.0,"3,028",0.14 ac,Navi Dhillon ,REALTY EXPERTS,"$2,398,000 USD",7.0,0.0,41.0
+298,298,"32254 Crest Ln, Union City, Alameda County, CA, 94587",4,2.0,"1,463",0.14 ac,Jen Chien Teng ,Keller Williams Benchmark,"$1,350,000 USD",54.0,0.0,46.0
+299,299,"32510 Karen Ct, Union City, Alameda County, CA, 94587",4,2.0,"1,682",0.17 ac,Jason Chen ,Intero Real Estate Services,"$1,450,000 USD",13.0,0.0,50.0
+300,300,"4432 Viejo Way, Union City, Alameda County, CA, 94587",3,2.0,"1,155",0.04 ac,Ken Kho ,Legacy Real Estate & Assoc.,"$739,000 USD",62.0,0.0,57.0
+301,301,"385 TAMARACKDRIVE, Union City, Alameda County, CA, 94587",3,2.0,"1,256",0.12 ac,Mayra Vera ,REALTY EXPERTS,"$899,000 USD",67.0,0.0,47.0
+302,302,"32808 Regents Blvd, Union City, Alameda County, CA, 94587",5,3.0,"2,370",0.14 ac,Navi Dhillon ,REALTY EXPERTS,"$1,748,000 USD",22.0,0.0,53.0
+303,303,"33737 14Th St, Union City, Alameda County, CA, 94587",2,1.0,"1,996",0.12 ac,Dominic Ng ,Legacy Real Estate & Assoc.,"$1,280,000 USD",62.0,0.0,57.0
+304,304,"33838 7Th St, Union City, Alameda County, CA, 94587",3,2.0,"1,441",0.12 ac,Luz Delgado ,NeoTech Realty,"$949,000 USD",62.0,0.0,51.0
+305,305,"4223 Queen Anne Dr, Union City, Alameda County, CA, 94587",3,2.0,"1,357",0.11 ac,Vikas Sharma ,Alliance Bay Realty,"$1,149,000 USD",36.0,0.0,59.0
+306,306,"3146 San Rafael Way, Union City, Alameda County, CA, 94587",2,2.0,"1,365",0.25 ac,Heng Chieng ,Intero Real Estate Services,"$900,000 USD",64.0,0.0,52.0
+307,307,"4424 Canterbury Way, Union City, Alameda County, CA, 94587",5,4.0,"2,392",0.11 ac,Rick Geha ,"eXp Realty of California, Inc","$1,649,888 USD",69.0,0.0,49.0
+308,308,"2167 Medallion Dr 3, Union City, Alameda County, CA, 94587",3,2.0,"1,134",0.18 ac,Vishal Sharma ,Alliance Bay Realty,"$699,888 USD",36.0,0.0,46.0
+309,309,"32414 Regents Blvd, Union City, Alameda County, CA, 94587",3,3.0,"1,792",0.19 ac,Navi Dhillon ,REALTY EXPERTS,"$1,550,000 USD",44.0,0.0,45.0
+310,310,"34894 Herringbone Way, Union City, Alameda County, CA, 94587",4,3.0,"1,988",0.08 ac,Simon Kiang ,Re/Max Accord,"$1,399,000 USD",65.0,0.0,53.0
+311,311,"73 Palm Dr., Union City, Alameda County, CA, 94587",3,2.0,"1,422",0,Alex Chow ,Alliance Manufactured Homes,"$425,000 USD",16.0,0.0,52.0
+312,312,"4263 Marsten Ave, Union City, Alameda County, CA, 94587",6,4.0,"2,966",0.18 ac,Bryan VanHeusen ,Legacy Real Estate & Assoc.,"$1,540,000 USD",72.0,0.0,56.0
+313,313,"32509 Deborah DR, Union City, Alameda County, CA, 94587",4,3.0,"2,031",0.151 ac,Nila Patel ,Keller Williams Realty - Cupertino,"$1,650,000 USD",20.0,0.0,42.0
+314,314,"33039 Alicante Ter, Union City, Alameda County, CA, 94587",3,3.0,"1,344",1.42 ac,Sunmeet Anand ,WDB Realty and Finance Inc.,"$899,000 USD",28.0,0.0,43.0
+315,315,"31243 Fredi St, Union City, Alameda County, CA, 94587",2,3.0,815,0.1 ac,Elizabeth Vera ,REALTY EXPERTS,"$775,000 USD",86.0,0.0,66.0
+316,316,"3179 San Rafael Way, Union City, Alameda County, CA, 94587",4,2.0,"1,732",0.15 ac,Rene Nieva ,Re/Max Active Realty,"$1,398,000 USD",68.0,0.0,56.0
+317,317,"32881 Arbor Vine Dr 4, Union City, Alameda County, CA, 94587",2,3.0,"1,362",3.57 ac,Jason Phuong Pham ,Intero Real Estate Services,"$749,000 USD",40.0,0.0,45.0
+318,318,"4564 Niland ST, Union City, Alameda County, CA, 94587",6,5.0,"3,945",0.138 ac,Gary (gang) Liu ,Compass,"$2,580,000 USD",17.0,0.0,59.0
+319,319,"4201 Apollo Cir, Union City, Alameda County, CA, 94587",4,3.0,"1,583",0.04 ac,Christine Wong ,United Brokers Real Estate,"$819,000 USD",80.0,0.0,57.0
+320,320,"2172 Skylark CT 2, Union City, Alameda County, CA, 94587",2,3.0,903,0,Grover Barbaran ,Realty One Group Infinity,"$554,900 USD",83.0,0.0,73.0
+321,321,"32455 Capitola Ct, Union City, Alameda County, CA, 94587",5,3.0,"3,028",0.14 ac,Navi Dhillon ,REALTY EXPERTS,"$2,398,000 USD",7.0,0.0,41.0
+322,322,"32254 Crest Ln, Union City, Alameda County, CA, 94587",4,2.0,"1,463",0.14 ac,Jen Chien Teng ,Keller Williams Benchmark,"$1,350,000 USD",54.0,0.0,46.0
+323,323,"32510 Karen Ct, Union City, Alameda County, CA, 94587",4,2.0,"1,682",0.17 ac,Jason Chen ,Intero Real Estate Services,"$1,450,000 USD",13.0,0.0,50.0
+324,324,"4432 Viejo Way, Union City, Alameda County, CA, 94587",3,2.0,"1,155",0.04 ac,Ken Kho ,Legacy Real Estate & Assoc.,"$739,000 USD",62.0,0.0,57.0
+325,325,"385 TAMARACKDRIVE, Union City, Alameda County, CA, 94587",3,2.0,"1,256",0.12 ac,Mayra Vera ,REALTY EXPERTS,"$899,000 USD",67.0,0.0,47.0
+326,326,"32808 Regents Blvd, Union City, Alameda County, CA, 94587",5,3.0,"2,370",0.14 ac,Navi Dhillon ,REALTY EXPERTS,"$1,748,000 USD",22.0,0.0,53.0
+327,327,"33737 14Th St, Union City, Alameda County, CA, 94587",2,1.0,"1,996",0.12 ac,Dominic Ng ,Legacy Real Estate & Assoc.,"$1,280,000 USD",62.0,0.0,57.0
+328,328,"33838 7Th St, Union City, Alameda County, CA, 94587",3,2.0,"1,441",0.12 ac,Luz Delgado ,NeoTech Realty,"$949,000 USD",62.0,0.0,51.0
+329,329,"4223 Queen Anne Dr, Union City, Alameda County, CA, 94587",3,2.0,"1,357",0.11 ac,Vikas Sharma ,Alliance Bay Realty,"$1,149,000 USD",36.0,0.0,59.0
+330,330,"3146 San Rafael Way, Union City, Alameda County, CA, 94587",2,2.0,"1,365",0.25 ac,Heng Chieng ,Intero Real Estate Services,"$900,000 USD",64.0,0.0,52.0
+331,331,"1823 62nd St, Berkeley, Alameda County, CA, 94703",7,5.0,"3,965",0.12 ac,Erin McKeon ,Keller Williams Realty,"$1,995,000 USD",92.0,62.0,99.0
+332,332,"1721 Berkeley WAY 9, Berkeley, Alameda County, CA, 94703",2,3.0,805,0,Brian G Lee ,KW Santa Clara Valley Inc,"$639,000 USD",96.0,70.0,99.0
+333,333,"2503 REGENT ST, Berkeley, Alameda County, CA, 94704",2,2.0,"2,914",0.09 ac,John Koenigshofer ,WINKLER REAL ESTATE GROUP,"$1,395,000 USD",98.0,65.0,93.0
+334,334,"2710 Cedar St, Berkeley, Alameda County, CA, 94709",4,3.0,"3,119",0.18 ac,Anja Plowright ,THE GRUBB CO. INC.,"$2,895,000 USD",69.0,55.0,49.0
+335,335,"2329 Seventh Street, Berkeley, Alameda County, CA, 94710",3,2.0,"1,293",0.12 ac,Shalene Rose ,Corcoran Global Living,"$1,195,000 USD",91.0,56.0,97.0
+336,336,"1281 Berkeley Way, Berkeley, Alameda County, CA, 94702",4,3.0,"1,814",0.1 ac,Brenda Avilla-Kintz ,Realty One Group AMR,"$1,088,000 USD",94.0,66.0,100.0
+337,337,"21 Live Oak Rd, Berkeley, Alameda County, CA, 94705",4,4.0,"4,617",0.22 ac,Bebe McRae ,THE GRUBB CO. INC.,"$2,495,000 USD",5.0,29.0,21.0
+338,338,"84 Plaza Dr, Berkeley, Alameda County, CA, 94705",3,2.0,"1,697",0.13 ac,Faye Keogh ,THE GRUBB CO. INC.,"$1,750,000 USD",84.0,44.0,67.0
+339,339,"7164 Buckingham Blvd, Berkeley, Alameda County, CA, 94705",3,3.0,"2,904",0.15 ac,Linda Ehrich ,Village Associates Real Estate,"$1,595,000 USD",4.0,16.0,29.0
+340,340,"2214 Browning Street, Berkeley, Alameda County, CA, 94702",3,2.0,"1,560",0.09 ac,Gretchen Roethle ,THE GRUBB CO. INC.,"$1,249,000 USD",92.0,64.0,99.0
+341,341,"2708 Prince St, Berkeley, Alameda County, CA, 94705",2,2.0,"1,060",0.1 ac,Diana Yonkouski ,BAY AREA PROPERTIES,"$1,250,000 USD",96.0,55.0,93.0
+342,342,"1734 CEDAR STREET, Berkeley, Alameda County, CA, 94703",4,4.0,"2,143",0.09 ac,David Gunderman ,KW Advisors,"$1,995,000 USD",88.0,67.0,97.0
+343,343,"1938 Hopkins St, Berkeley, Alameda County, CA, 94707",3,2.0,"1,180",0,Aaron Brown ,KW Advisors,"$1,095,000 USD",78.0,48.0,82.0
+344,344,"570 Woodmont Ave, Berkeley, Alameda County, CA, 94708",3,3.0,"2,663",0.2 ac,Candice Economides ,THE GRUBB CO. INC.,"$1,695,000 USD",25.0,35.0,25.0
+345,345,"2322 Acton St, Berkeley, Alameda County, CA, 94702",4,3.0,"2,242",0.08 ac,Heidi Marchesotti ,Corcoran Global Living,"$1,750,000 USD",88.0,64.0,96.0
+346,346,"1744 McGee Ave, Berkeley, Alameda County, CA, 94703",3,2.0,"1,236",0.07 ac,Leah Tounger ,KW Advisors,"$1,099,000 USD",90.0,69.0,99.0
+347,347,"1823 62nd St, Berkeley, Alameda County, CA, 94703",7,5.0,"3,965",0.12 ac,Erin McKeon ,Keller Williams Realty,"$1,995,000 USD",92.0,62.0,99.0
+348,348,"1721 Berkeley WAY 9, Berkeley, Alameda County, CA, 94703",2,3.0,805,0,Brian G Lee ,KW Santa Clara Valley Inc,"$639,000 USD",96.0,70.0,99.0
+349,349,"2503 REGENT ST, Berkeley, Alameda County, CA, 94704",2,2.0,"2,914",0.09 ac,John Koenigshofer ,WINKLER REAL ESTATE GROUP,"$1,395,000 USD",98.0,65.0,93.0
+350,350,"2710 Cedar St, Berkeley, Alameda County, CA, 94709",4,3.0,"3,119",0.18 ac,Anja Plowright ,THE GRUBB CO. INC.,"$2,895,000 USD",69.0,55.0,49.0
+351,351,"2329 Seventh Street, Berkeley, Alameda County, CA, 94710",3,2.0,"1,293",0.12 ac,Shalene Rose ,Corcoran Global Living,"$1,195,000 USD",91.0,56.0,97.0
+352,352,"1281 Berkeley Way, Berkeley, Alameda County, CA, 94702",4,3.0,"1,814",0.1 ac,Brenda Avilla-Kintz ,Realty One Group AMR,"$1,088,000 USD",94.0,66.0,100.0
+353,353,"21 Live Oak Rd, Berkeley, Alameda County, CA, 94705",4,4.0,"4,617",0.22 ac,Bebe McRae ,THE GRUBB CO. INC.,"$2,495,000 USD",5.0,29.0,21.0
+354,354,"84 Plaza Dr, Berkeley, Alameda County, CA, 94705",3,2.0,"1,697",0.13 ac,Faye Keogh ,THE GRUBB CO. INC.,"$1,750,000 USD",84.0,44.0,67.0
+355,355,"7164 Buckingham Blvd, Berkeley, Alameda County, CA, 94705",3,3.0,"2,904",0.15 ac,Linda Ehrich ,Village Associates Real Estate,"$1,595,000 USD",4.0,16.0,29.0
+356,356,"2214 Browning Street, Berkeley, Alameda County, CA, 94702",3,2.0,"1,560",0.09 ac,Gretchen Roethle ,THE GRUBB CO. INC.,"$1,249,000 USD",92.0,64.0,99.0
+357,357,"2708 Prince St, Berkeley, Alameda County, CA, 94705",2,2.0,"1,060",0.1 ac,Diana Yonkouski ,BAY AREA PROPERTIES,"$1,250,000 USD",96.0,55.0,93.0
+358,358,"1734 CEDAR STREET, Berkeley, Alameda County, CA, 94703",4,4.0,"2,143",0.09 ac,David Gunderman ,KW Advisors,"$1,995,000 USD",88.0,67.0,97.0
+359,359,"1938 Hopkins St, Berkeley, Alameda County, CA, 94707",3,2.0,"1,180",0,Aaron Brown ,KW Advisors,"$1,095,000 USD",78.0,48.0,82.0
+360,360,"570 Woodmont Ave, Berkeley, Alameda County, CA, 94708",3,3.0,"2,663",0.2 ac,Candice Economides ,THE GRUBB CO. INC.,"$1,695,000 USD",25.0,35.0,25.0
+361,361,"2322 Acton St, Berkeley, Alameda County, CA, 94702",4,3.0,"2,242",0.08 ac,Heidi Marchesotti ,Corcoran Global Living,"$1,750,000 USD",88.0,64.0,96.0
+362,362,"1744 McGee Ave, Berkeley, Alameda County, CA, 94703",3,2.0,"1,236",0.07 ac,Leah Tounger ,KW Advisors,"$1,099,000 USD",90.0,69.0,99.0
+363,363,"311 Sylvia AVE, Milpitas, Santa Clara County, CA, 95035",5,2.0,"1,652",0.117 ac,Alex Pena ,David Lyng Real Estate,"$1,277,800 USD",77.0,42.0,73.0
+364,364,"2018 Wellington DR, Milpitas, Santa Clara County, CA, 95035",5,4.0,"4,454",0.978 ac,Hoang Dam ,Intero Real Estate Services,"$3,985,000 USD",5.0,30.0,31.0
+365,365,"1988 Lee Way , Milpitas, Santa Clara County, CA, 95035",3,3.5,"1,640",0,"Cindy Lin, Broker ","Cindy Lin, Broker","$1,249,000 USD",49.0,61.0,73.0
+366,366,"1312 Acadia AVE, Milpitas, Santa Clara County, CA, 95035",4,3.0,"1,586",0.131 ac,David Lewis Group ,Compass,"$1,468,888 USD",51.0,28.0,66.0
+367,367,"459 Woodcock CT, Milpitas, Santa Clara County, CA, 95035",5,2.0,"1,634",0.135 ac,Boyenga Team ,Compass,"$1,480,000 USD",48.0,37.0,58.0
+368,368,"1788 Burley DR, Milpitas, Santa Clara County, CA, 95035",4,2.0,"1,382",0.138 ac,Maggie Guo ,Compass,"$1,319,888 USD",41.0,21.0,59.0
+369,369,"404 Dempsey RD 107, Milpitas, Santa Clara County, CA, 95035",2,4.0,842,0,David Cao ,eXp Realty of California Inc.,"$499,000 USD",69.0,29.0,70.0
+370,370,"1348 Knollview Dr , Milpitas, Santa Clara County, CA, 95035",4,2.0,"1,743",0,Sally Tzeng ,BRG REALTY,"$1,739,000 USD",66.0,38.0,71.0
+371,371,"792 Erie PL, Milpitas, Santa Clara County, CA, 95035",4,3.0,"1,860",0.077 ac,Matt Cossell ,KW Bay Area Estates,"$1,595,000 USD",54.0,38.0,67.0
+372,372,"633 Angus DR, Milpitas, Santa Clara County, CA, 95035",4,3.0,"3,274",0,Maya Hsu ,Compass,"$2,999,000 USD",63.0,36.0,71.0
+373,373,"54 Pimentel Cir, Milpitas, Santa Clara County, CA, 95035",4,4.0,"2,155",0.04 ac,Radhika Bakshi ,Intero Real Estate Services,"$1,575,000 USD",72.0,32.0,66.0
+374,374,"1464 Edsel DR, Milpitas, Santa Clara County, CA, 95035",3,2.0,"1,100",0.145 ac,Sophia Wong ,KW Bay Area Estates,"$1,228,800 USD",53.0,27.0,63.0
+375,375,"311 Sylvia AVE, Milpitas, Santa Clara County, CA, 95035",5,2.0,"1,652",0.117 ac,Alex Pena ,David Lyng Real Estate,"$1,277,800 USD",77.0,42.0,73.0
+376,376,"2018 Wellington DR, Milpitas, Santa Clara County, CA, 95035",5,4.0,"4,454",0.978 ac,Hoang Dam ,Intero Real Estate Services,"$3,985,000 USD",5.0,30.0,31.0
+377,377,"1988 Lee Way , Milpitas, Santa Clara County, CA, 95035",3,3.5,"1,640",0,"Cindy Lin, Broker ","Cindy Lin, Broker","$1,249,000 USD",49.0,61.0,73.0
+378,378,"1312 Acadia AVE, Milpitas, Santa Clara County, CA, 95035",4,3.0,"1,586",0.131 ac,David Lewis Group ,Compass,"$1,468,888 USD",51.0,28.0,66.0
+379,379,"459 Woodcock CT, Milpitas, Santa Clara County, CA, 95035",5,2.0,"1,634",0.135 ac,Boyenga Team ,Compass,"$1,480,000 USD",48.0,37.0,58.0
+380,380,"1788 Burley DR, Milpitas, Santa Clara County, CA, 95035",4,2.0,"1,382",0.138 ac,Maggie Guo ,Compass,"$1,319,888 USD",41.0,21.0,59.0
+381,381,"404 Dempsey RD 107, Milpitas, Santa Clara County, CA, 95035",2,4.0,842,0,David Cao ,eXp Realty of California Inc.,"$499,000 USD",69.0,29.0,70.0
+382,382,"1348 Knollview Dr , Milpitas, Santa Clara County, CA, 95035",4,2.0,"1,743",0,Sally Tzeng ,BRG REALTY,"$1,739,000 USD",66.0,38.0,71.0
+383,383,"792 Erie PL, Milpitas, Santa Clara County, CA, 95035",4,3.0,"1,860",0.077 ac,Matt Cossell ,KW Bay Area Estates,"$1,595,000 USD",54.0,38.0,67.0
+384,384,"633 Angus DR, Milpitas, Santa Clara County, CA, 95035",4,3.0,"3,274",0,Maya Hsu ,Compass,"$2,999,000 USD",63.0,36.0,71.0
+385,385,"54 Pimentel Cir, Milpitas, Santa Clara County, CA, 95035",4,4.0,"2,155",0.04 ac,Radhika Bakshi ,Intero Real Estate Services,"$1,575,000 USD",72.0,32.0,66.0
+386,386,"1464 Edsel DR, Milpitas, Santa Clara County, CA, 95035",3,2.0,"1,100",0.145 ac,Sophia Wong ,KW Bay Area Estates,"$1,228,800 USD",53.0,27.0,63.0
+387,387,"7832 Foothill Rd, Pleasanton, Alameda County, CA, 94566",5,4.0,"4,477",0.92 ac,David Darby ,Keller Williams Tri-Valley,"$3,872,000 USD",0.0,0.0,30.0
+388,388,"3013 Calle De La Mesa, Pleasanton, Alameda County, CA, 94566",4,3.0,"2,212",0.115 ac,Peggy Chau ,eXp Realty of California Inc.,"$1,679,000 USD",30.0,21.0,64.0
+389,389,"3193 Chardonnay Dr, Pleasanton, Alameda County, CA, 94566",4,3.0,"2,645",0.3 ac,Mike Carey ,Investment Real Estate,"$1,775,000 USD",55.0,31.0,55.0
+390,390,"1558Trimingham Drive, Pleasanton, Alameda County, CA, 94566",3,3.0,"3,122",0,Janet Anderson ,Keller Williams - Stockton,"$1,125,000 USD",74.0,32.0,75.0
+391,391,"1541 Trimingham Drive, Pleasanton, Alameda County, CA, 94566",3,3.0,"1,920",0.08 ac,Jeff Clyma ,Re/Max Accord,"$1,425,000 USD",74.0,32.0,75.0
+392,392,"2850 Calle Reynoso, Pleasanton, Alameda County, CA, 94566",5,3.0,"2,469",0.16 ac,Jo Ann Luisi ,Compass,"$1,799,950 USD",15.0,21.0,67.0
+393,393,"3417Smoketree Commons 147, Pleasanton, Alameda County, CA, 94566",2,2.0,856,0,Janet Anderson ,Keller Williams - Stockton,"$649,000 USD",50.0,32.0,68.0
+394,394,"7615 Canyon Meadow Cir C, Pleasanton, Alameda County, CA, 94588",2,1.0,790,0,Gabriele Orbell ,Keller Williams Realty,"$495,000 USD",1.0,13.0,24.0
+395,395,"3143 Thistledown Ct, Pleasanton, Alameda County, CA, 94588",4,2.0,"1,959",0.14 ac,Sherry Nigg ,Re/Max Accord,"$1,598,000 USD",19.0,32.0,64.0
+396,396,"409 Neal St, Pleasanton, Alameda County, CA, 94566",3,3.0,"2,262",0.21 ac,Liz Venema ,Keller Williams Tri-Valley,"$1,850,000 USD",83.0,33.0,38.0
+397,397,"4738 Woodthrush Ct, Pleasanton, Alameda County, CA, 94566",4,3.0,"1,800",0.17 ac,Kaajal Shahani ,Intero Real Estate Services,"$1,849,000 USD",46.0,34.0,71.0
+398,398,"4328 Addison Way, Pleasanton, Alameda County, CA, 94588",3,2.0,"1,614",0.145 ac,Julia Murtagh ,Compass,"$1,369,000 USD",68.0,35.0,76.0
+399,399,"3592 Gresham Ct, Pleasanton, Alameda County, CA, 94588",4,3.0,"2,600",0.3 ac,Rebecca Bruner ,Re/Max Accord,"$1,675,000 USD",74.0,35.0,80.0
+400,400,"3263 Vineyard Ave. #69, Pleasanton, Alameda County, CA, 94566",3,2.0,"1,344",0,Alexander Ho ,Alliance Manufactured Homes,"$409,000 USD",43.0,33.0,73.0
+401,401,"4108 Jensen St, Pleasanton, Alameda County, CA, 94566",3,1.0,"1,040",0.14 ac,Miranda Mattos ,Compass,"$899,000 USD",74.0,33.0,75.0
+402,402,"3350 Hadsell Ct, Pleasanton, Alameda County, CA, 94588",4,3.0,"1,914",0.1 ac,Jeannine Rinetti ,"Rinetti & Co., REALTORS®","$1,698,000 USD",36.0,32.0,61.0
+403,403,"567 Bonita Ave, Pleasanton, Alameda County, CA, 94566",3,2.0,"1,571",0.18 ac,Mike Carey ,Investment Real Estate,"$1,698,000 USD",65.0,32.0,33.0
+404,404,"3738 N Hawaii Court, Pleasanton, Alameda County, CA, 94588",4,2.0,"1,760",0.15 ac,Corey Green ,Keller Williams Tri-Valley,"$1,528,000 USD",42.0,27.0,71.0
+405,405,"5525 Old School Rd, Pleasanton, Contra Costa County, CA, 94588",4,3.0,"2,940",2.28 ac,Gregory Jackson ,Compass,"$2,695,000 USD",7.0,0.0,8.0
+406,406,"4854 Braxton Pl, Pleasanton, Alameda County, CA, 94566",5,4.0,"3,609",0.23 ac,DeAnna Armario ,Keller Williams Tri-Valley,"$2,585,000 USD",15.0,21.0,11.0
+407,407,"6981 Corte Antonio, Pleasanton, Alameda County, CA, 94566",4,3.0,"2,336",0.16 ac,Liz Venema ,Keller Williams Tri-Valley,"$1,895,000 USD",16.0,20.0,64.0
+408,408,"37 Castledown Rd, Pleasanton, Alameda County, CA, 94566",3,4.0,"2,564",0.48 ac,Sheri Case McNutt ,Legacy Real Estate & Assoc.,"$1,999,950 USD",7.0,0.0,11.0
+409,409,"8015 Canyon Creek Cir, Pleasanton, Alameda County, CA, 94588",5,4.0,"2,127",0.12 ac,Jake Fahnhorst ,Keller Williams Tri-Valley,"$1,699,000 USD",2.0,9.0,20.0
+410,410,"7832 Foothill Rd, Pleasanton, Alameda County, CA, 94566",5,4.0,"4,477",0.92 ac,David Darby ,Keller Williams Tri-Valley,"$3,872,000 USD",0.0,0.0,30.0
+411,411,"3013 Calle De La Mesa, Pleasanton, Alameda County, CA, 94566",4,3.0,"2,212",0.115 ac,Peggy Chau ,eXp Realty of California Inc.,"$1,679,000 USD",30.0,21.0,64.0
+412,412,"3193 Chardonnay Dr, Pleasanton, Alameda County, CA, 94566",4,3.0,"2,645",0.3 ac,Mike Carey ,Investment Real Estate,"$1,775,000 USD",55.0,31.0,55.0
+413,413,"1558Trimingham Drive, Pleasanton, Alameda County, CA, 94566",3,3.0,"3,122",0,Janet Anderson ,Keller Williams - Stockton,"$1,125,000 USD",74.0,32.0,75.0
+414,414,"1541 Trimingham Drive, Pleasanton, Alameda County, CA, 94566",3,3.0,"1,920",0.08 ac,Jeff Clyma ,Re/Max Accord,"$1,425,000 USD",74.0,32.0,75.0
+415,415,"2850 Calle Reynoso, Pleasanton, Alameda County, CA, 94566",5,3.0,"2,469",0.16 ac,Jo Ann Luisi ,Compass,"$1,799,950 USD",15.0,21.0,67.0
+416,416,"3417Smoketree Commons 147, Pleasanton, Alameda County, CA, 94566",2,2.0,856,0,Janet Anderson ,Keller Williams - Stockton,"$649,000 USD",50.0,32.0,68.0
+417,417,"7615 Canyon Meadow Cir C, Pleasanton, Alameda County, CA, 94588",2,1.0,790,0,Gabriele Orbell ,Keller Williams Realty,"$495,000 USD",1.0,13.0,24.0
+418,418,"3143 Thistledown Ct, Pleasanton, Alameda County, CA, 94588",4,2.0,"1,959",0.14 ac,Sherry Nigg ,Re/Max Accord,"$1,598,000 USD",19.0,32.0,64.0
+419,419,"409 Neal St, Pleasanton, Alameda County, CA, 94566",3,3.0,"2,262",0.21 ac,Liz Venema ,Keller Williams Tri-Valley,"$1,850,000 USD",83.0,33.0,38.0
+420,420,"4738 Woodthrush Ct, Pleasanton, Alameda County, CA, 94566",4,3.0,"1,800",0.17 ac,Kaajal Shahani ,Intero Real Estate Services,"$1,849,000 USD",46.0,34.0,71.0
+421,421,"4328 Addison Way, Pleasanton, Alameda County, CA, 94588",3,2.0,"1,614",0.145 ac,Julia Murtagh ,Compass,"$1,369,000 USD",68.0,35.0,76.0
+422,422,"3592 Gresham Ct, Pleasanton, Alameda County, CA, 94588",4,3.0,"2,600",0.3 ac,Rebecca Bruner ,Re/Max Accord,"$1,675,000 USD",74.0,35.0,80.0
+423,423,"3263 Vineyard Ave. #69, Pleasanton, Alameda County, CA, 94566",3,2.0,"1,344",0,Alexander Ho ,Alliance Manufactured Homes,"$409,000 USD",43.0,33.0,73.0
+424,424,"4108 Jensen St, Pleasanton, Alameda County, CA, 94566",3,1.0,"1,040",0.14 ac,Miranda Mattos ,Compass,"$899,000 USD",74.0,33.0,75.0
+425,425,"3350 Hadsell Ct, Pleasanton, Alameda County, CA, 94588",4,3.0,"1,914",0.1 ac,Jeannine Rinetti ,"Rinetti & Co., REALTORS®","$1,698,000 USD",36.0,32.0,61.0
+426,426,"567 Bonita Ave, Pleasanton, Alameda County, CA, 94566",3,2.0,"1,571",0.18 ac,Mike Carey ,Investment Real Estate,"$1,698,000 USD",65.0,32.0,33.0
+427,427,"3738 N Hawaii Court, Pleasanton, Alameda County, CA, 94588",4,2.0,"1,760",0.15 ac,Corey Green ,Keller Williams Tri-Valley,"$1,528,000 USD",42.0,27.0,71.0
+428,428,"5525 Old School Rd, Pleasanton, Contra Costa County, CA, 94588",4,3.0,"2,940",2.28 ac,Gregory Jackson ,Compass,"$2,695,000 USD",7.0,0.0,8.0
+429,429,"4854 Braxton Pl, Pleasanton, Alameda County, CA, 94566",5,4.0,"3,609",0.23 ac,DeAnna Armario ,Keller Williams Tri-Valley,"$2,585,000 USD",15.0,21.0,11.0
+430,430,"6981 Corte Antonio, Pleasanton, Alameda County, CA, 94566",4,3.0,"2,336",0.16 ac,Liz Venema ,Keller Williams Tri-Valley,"$1,895,000 USD",16.0,20.0,64.0
+431,431,"37 Castledown Rd, Pleasanton, Alameda County, CA, 94566",3,4.0,"2,564",0.48 ac,Sheri Case McNutt ,Legacy Real Estate & Assoc.,"$1,999,950 USD",7.0,0.0,11.0
+432,432,"8015 Canyon Creek Cir, Pleasanton, Alameda County, CA, 94588",5,4.0,"2,127",0.12 ac,Jake Fahnhorst ,Keller Williams Tri-Valley,"$1,699,000 USD",2.0,9.0,20.0
+433,433,"7832 Foothill Rd, Pleasanton, Alameda County, CA, 94566",5,4.0,"4,477",0.92 ac,David Darby ,Keller Williams Tri-Valley,"$3,872,000 USD",0.0,0.0,30.0
+434,434,"3013 Calle De La Mesa, Pleasanton, Alameda County, CA, 94566",4,3.0,"2,212",0.115 ac,Peggy Chau ,eXp Realty of California Inc.,"$1,679,000 USD",30.0,21.0,64.0
+435,435,"3193 Chardonnay Dr, Pleasanton, Alameda County, CA, 94566",4,3.0,"2,645",0.3 ac,Mike Carey ,Investment Real Estate,"$1,775,000 USD",55.0,31.0,55.0
+436,436,"1558Trimingham Drive, Pleasanton, Alameda County, CA, 94566",3,3.0,"3,122",0,Janet Anderson ,Keller Williams - Stockton,"$1,125,000 USD",74.0,32.0,75.0
+437,437,"1541 Trimingham Drive, Pleasanton, Alameda County, CA, 94566",3,3.0,"1,920",0.08 ac,Jeff Clyma ,Re/Max Accord,"$1,425,000 USD",74.0,32.0,75.0
+438,438,"2850 Calle Reynoso, Pleasanton, Alameda County, CA, 94566",5,3.0,"2,469",0.16 ac,Jo Ann Luisi ,Compass,"$1,799,950 USD",15.0,21.0,67.0
+439,439,"3417Smoketree Commons 147, Pleasanton, Alameda County, CA, 94566",2,2.0,856,0,Janet Anderson ,Keller Williams - Stockton,"$649,000 USD",50.0,32.0,68.0
+440,440,"7615 Canyon Meadow Cir C, Pleasanton, Alameda County, CA, 94588",2,1.0,790,0,Gabriele Orbell ,Keller Williams Realty,"$495,000 USD",1.0,13.0,24.0
+441,441,"3143 Thistledown Ct, Pleasanton, Alameda County, CA, 94588",4,2.0,"1,959",0.14 ac,Sherry Nigg ,Re/Max Accord,"$1,598,000 USD",19.0,32.0,64.0
+442,442,"409 Neal St, Pleasanton, Alameda County, CA, 94566",3,3.0,"2,262",0.21 ac,Liz Venema ,Keller Williams Tri-Valley,"$1,850,000 USD",83.0,33.0,38.0
+443,443,"4738 Woodthrush Ct, Pleasanton, Alameda County, CA, 94566",4,3.0,"1,800",0.17 ac,Kaajal Shahani ,Intero Real Estate Services,"$1,849,000 USD",46.0,34.0,71.0
+444,444,"4328 Addison Way, Pleasanton, Alameda County, CA, 94588",3,2.0,"1,614",0.145 ac,Julia Murtagh ,Compass,"$1,369,000 USD",68.0,35.0,76.0
+445,445,"3592 Gresham Ct, Pleasanton, Alameda County, CA, 94588",4,3.0,"2,600",0.3 ac,Rebecca Bruner ,Re/Max Accord,"$1,675,000 USD",74.0,35.0,80.0
+446,446,"3263 Vineyard Ave. #69, Pleasanton, Alameda County, CA, 94566",3,2.0,"1,344",0,Alexander Ho ,Alliance Manufactured Homes,"$409,000 USD",43.0,33.0,73.0
+447,447,"4108 Jensen St, Pleasanton, Alameda County, CA, 94566",3,1.0,"1,040",0.14 ac,Miranda Mattos ,Compass,"$899,000 USD",74.0,33.0,75.0
+448,448,"3350 Hadsell Ct, Pleasanton, Alameda County, CA, 94588",4,3.0,"1,914",0.1 ac,Jeannine Rinetti ,"Rinetti & Co., REALTORS®","$1,698,000 USD",36.0,32.0,61.0
+449,449,"567 Bonita Ave, Pleasanton, Alameda County, CA, 94566",3,2.0,"1,571",0.18 ac,Mike Carey ,Investment Real Estate,"$1,698,000 USD",65.0,32.0,33.0
+450,450,"3738 N Hawaii Court, Pleasanton, Alameda County, CA, 94588",4,2.0,"1,760",0.15 ac,Corey Green ,Keller Williams Tri-Valley,"$1,528,000 USD",42.0,27.0,71.0
+451,451,"5525 Old School Rd, Pleasanton, Contra Costa County, CA, 94588",4,3.0,"2,940",2.28 ac,Gregory Jackson ,Compass,"$2,695,000 USD",7.0,0.0,8.0
+452,452,"4854 Braxton Pl, Pleasanton, Alameda County, CA, 94566",5,4.0,"3,609",0.23 ac,DeAnna Armario ,Keller Williams Tri-Valley,"$2,585,000 USD",15.0,21.0,11.0
+453,453,"6981 Corte Antonio, Pleasanton, Alameda County, CA, 94566",4,3.0,"2,336",0.16 ac,Liz Venema ,Keller Williams Tri-Valley,"$1,895,000 USD",16.0,20.0,64.0
+454,454,"37 Castledown Rd, Pleasanton, Alameda County, CA, 94566",3,4.0,"2,564",0.48 ac,Sheri Case McNutt ,Legacy Real Estate & Assoc.,"$1,999,950 USD",7.0,0.0,11.0
+455,455,"8015 Canyon Creek Cir, Pleasanton, Alameda County, CA, 94588",5,4.0,"2,127",0.12 ac,Jake Fahnhorst ,Keller Williams Tri-Valley,"$1,699,000 USD",2.0,9.0,20.0
+456,456,"45 Lundys Lane , San Mateo, San Mateo County, CA, 94402",4,3.5,"3,660",0,Becky Geller ,Compass,"$3,495,000 USD",23.0,0.0,23.0
+457,457,"1024 Shoreline Dr, San Mateo, San Mateo County, CA, 94404",2,2.0,"1,150",0.03 ac,Mahshid Shaghafi ,Christie's Intl Real Estate Se,"$938,888 USD",61.0,32.0,76.0
+458,458,"3815 Fernwood Street , San Mateo, San Mateo County, CA, 94403",3,2.0,"1,320",0,Jim Tierney ,NetEquity Real Estate,"$1,450,000 USD",40.0,35.0,16.0
+459,459,"10 Crystal Springs Road , San Mateo, San Mateo County, CA, 94402",2,2.0,"1,238",0,Linda Druml ,Polaris Pacific,"$1,200,000 USD",95.0,46.0,61.0
+460,460,"200 Elm Street 104, San Mateo, San Mateo County, CA, 94401",1,1.0,865,0.907 ac,Geoffrey Williams ,Compass,"$720,000 USD",88.0,46.0,70.0
+461,461,"2625 Monterey ST, San Mateo, San Mateo County, CA, 94403",4,4.0,"3,300",0.264 ac,Disen Cai RE Group ,KW Peninsula Estates,"$3,680,000 USD",46.0,31.0,25.0
+462,462,"1166 Dover Lane , Foster City, San Mateo County, CA, 94404",3,2.5,"1,790",0,Sue Walsh ,Compass,"$2,798,000 USD",45.0,0.0,56.0
+463,463,"1 Baldwin AVE 319, San Mateo, San Mateo County, CA, 94401",1,1.0,"1,000",0,Joyce Bartel ,Compass,"$225,000 USD",96.0,47.0,69.0
+464,464,"1636 Marina Ct Unit D, San Mateo, San Mateo County, CA, 94403",3,1.5,"1,054",0,Ava McLeod DRE#01965780 ,Alliance Bay Realty,"$849,000 USD",54.0,36.0,75.0
+465,465,"519 Sylvan AVE, San Mateo, San Mateo County, CA, 94403",4,4.0,"2,382",0.127 ac,David Wang ,Compass,"$2,850,888 USD",56.0,37.0,52.0
+466,466,"864 Andromeda LN, Foster City, San Mateo County, CA, 94404",3,3.0,"1,546",3.898 ac,Mary Bee ,RE/MAX Star Properties,"$1,735,000 USD",73.0,0.0,69.0
+467,467,"1830 E Helene CT, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,000",0.211 ac,Corazon Lim ,eXp Realty of California Inc.,"$1,300,000 USD",58.0,29.0,80.0
+468,468,"1006 College AVE, San Mateo, San Mateo County, CA, 94401",3,3.0,"1,786",0.115 ac,Luis Ocon ,eXp Realty of California Inc.,"$1,649,888 USD",71.0,31.0,59.0
+469,469,"1 Baldwin AVE 219, San Mateo, San Mateo County, CA, 94401",1,1.0,"1,000",0,The Sharp Group ,KW Peninsula Estates,"$298,000 USD",96.0,47.0,69.0
+470,470,"845 N Humboldt ST 410, San Mateo, San Mateo County, CA, 94401",1,1.0,693,0,Disen Cai RE Group ,KW Peninsula Estates,"$570,000 USD",78.0,33.0,68.0
+471,471,"626 Crane Ave , Foster City, San Mateo County, CA, 94404",4,2.0,"1,810",0,Suzanne O'Brien ,Intero,"$1,948,000 USD",33.0,0.0,61.0
+472,472,"244 State Street , San Mateo, San Mateo County, CA, 94401",2,2.5,"1,150",0,Mary Molinari ,Coldwell Banker Realty,"$1,080,000 USD",80.0,43.0,70.0
+473,473,"212 Huron AVE, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,120",0.126 ac,Samantha Zhao ,Keller Williams Palo Alto,"$1,450,000 USD",60.0,23.0,72.0
+474,474,"6 Fairoaks Ct, San Mateo, San Mateo County, CA, 94403",3,3.0,"2,420",0.25 ac,Chris VavRosky ,Golden Gate Sotheby's Int'l,"$2,888,000 USD",64.0,30.0,32.0
+475,475,"400 Mariners Island Blvd., #318 , San Mateo, San Mateo County, CA, 94404",2,2.0,0,0,Kathleen Wilson ,Compass,"$739,000 USD",27.0,29.0,70.0
+476,476,"72 W Poplar AVE, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,610",0.136 ac,Denice M. Nagel ,KW Peninsula Estates,"$2,598,000 USD",66.0,42.0,49.0
+477,477,"615 Port Dr #101 , San Mateo, San Mateo County, CA, 94404",2,2.0,"1,121",0,Margot Lockwood & Ricky Flores ,Golden Gate Sotheby's International Realty,"$899,000 USD",17.0,29.0,65.0
+478,478,"1017 Monte Diablo AVE, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,360",0.097 ac,Todd Fernandes ,Intero Real Estate Services,"$1,399,000 USD",83.0,43.0,73.0
+479,479,"841 Kathryne AVE, San Mateo, San Mateo County, CA, 94401",5,2.0,"1,990",0.138 ac,Sandra Darrow ,Real Estate eBroker Inc,"$1,400,000 USD",58.0,29.0,80.0
+480,480,"45 Lundys Lane , San Mateo, San Mateo County, CA, 94402",4,3.5,"3,660",0,Becky Geller ,Compass,"$3,495,000 USD",23.0,0.0,23.0
+481,481,"1024 Shoreline Dr, San Mateo, San Mateo County, CA, 94404",2,2.0,"1,150",0.03 ac,Mahshid Shaghafi ,Christie's Intl Real Estate Se,"$938,888 USD",61.0,32.0,76.0
+482,482,"3815 Fernwood Street , San Mateo, San Mateo County, CA, 94403",3,2.0,"1,320",0,Jim Tierney ,NetEquity Real Estate,"$1,450,000 USD",40.0,35.0,16.0
+483,483,"10 Crystal Springs Road , San Mateo, San Mateo County, CA, 94402",2,2.0,"1,238",0,Linda Druml ,Polaris Pacific,"$1,200,000 USD",95.0,46.0,61.0
+484,484,"200 Elm Street 104, San Mateo, San Mateo County, CA, 94401",1,1.0,865,0.907 ac,Geoffrey Williams ,Compass,"$720,000 USD",88.0,46.0,70.0
+485,485,"2625 Monterey ST, San Mateo, San Mateo County, CA, 94403",4,4.0,"3,300",0.264 ac,Disen Cai RE Group ,KW Peninsula Estates,"$3,680,000 USD",46.0,31.0,25.0
+486,486,"1166 Dover Lane , Foster City, San Mateo County, CA, 94404",3,2.5,"1,790",0,Sue Walsh ,Compass,"$2,798,000 USD",45.0,0.0,56.0
+487,487,"1 Baldwin AVE 319, San Mateo, San Mateo County, CA, 94401",1,1.0,"1,000",0,Joyce Bartel ,Compass,"$225,000 USD",96.0,47.0,69.0
+488,488,"1636 Marina Ct Unit D, San Mateo, San Mateo County, CA, 94403",3,1.5,"1,054",0,Ava McLeod DRE#01965780 ,Alliance Bay Realty,"$849,000 USD",54.0,36.0,75.0
+489,489,"519 Sylvan AVE, San Mateo, San Mateo County, CA, 94403",4,4.0,"2,382",0.127 ac,David Wang ,Compass,"$2,850,888 USD",56.0,37.0,52.0
+490,490,"864 Andromeda LN, Foster City, San Mateo County, CA, 94404",3,3.0,"1,546",3.898 ac,Mary Bee ,RE/MAX Star Properties,"$1,735,000 USD",73.0,0.0,69.0
+491,491,"1830 E Helene CT, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,000",0.211 ac,Corazon Lim ,eXp Realty of California Inc.,"$1,300,000 USD",58.0,29.0,80.0
+492,492,"1006 College AVE, San Mateo, San Mateo County, CA, 94401",3,3.0,"1,786",0.115 ac,Luis Ocon ,eXp Realty of California Inc.,"$1,649,888 USD",71.0,31.0,59.0
+493,493,"1 Baldwin AVE 219, San Mateo, San Mateo County, CA, 94401",1,1.0,"1,000",0,The Sharp Group ,KW Peninsula Estates,"$298,000 USD",96.0,47.0,69.0
+494,494,"845 N Humboldt ST 410, San Mateo, San Mateo County, CA, 94401",1,1.0,693,0,Disen Cai RE Group ,KW Peninsula Estates,"$570,000 USD",78.0,33.0,68.0
+495,495,"626 Crane Ave , Foster City, San Mateo County, CA, 94404",4,2.0,"1,810",0,Suzanne O'Brien ,Intero,"$1,948,000 USD",33.0,0.0,61.0
+496,496,"244 State Street , San Mateo, San Mateo County, CA, 94401",2,2.5,"1,150",0,Mary Molinari ,Coldwell Banker Realty,"$1,080,000 USD",80.0,43.0,70.0
+497,497,"212 Huron AVE, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,120",0.126 ac,Samantha Zhao ,Keller Williams Palo Alto,"$1,450,000 USD",60.0,23.0,72.0
+498,498,"6 Fairoaks Ct, San Mateo, San Mateo County, CA, 94403",3,3.0,"2,420",0.25 ac,Chris VavRosky ,Golden Gate Sotheby's Int'l,"$2,888,000 USD",64.0,30.0,32.0
+499,499,"400 Mariners Island Blvd., #318 , San Mateo, San Mateo County, CA, 94404",2,2.0,0,0,Kathleen Wilson ,Compass,"$739,000 USD",27.0,29.0,70.0
+500,500,"72 W Poplar AVE, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,610",0.136 ac,Denice M. Nagel ,KW Peninsula Estates,"$2,598,000 USD",66.0,42.0,49.0
+501,501,"615 Port Dr #101 , San Mateo, San Mateo County, CA, 94404",2,2.0,"1,121",0,Margot Lockwood & Ricky Flores ,Golden Gate Sotheby's International Realty,"$899,000 USD",17.0,29.0,65.0
+502,502,"1017 Monte Diablo AVE, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,360",0.097 ac,Todd Fernandes ,Intero Real Estate Services,"$1,399,000 USD",83.0,43.0,73.0
+503,503,"841 Kathryne AVE, San Mateo, San Mateo County, CA, 94401",5,2.0,"1,990",0.138 ac,Sandra Darrow ,Real Estate eBroker Inc,"$1,400,000 USD",58.0,29.0,80.0
+504,504,"45 Lundys Lane , San Mateo, San Mateo County, CA, 94402",4,3.5,"3,660",0,Becky Geller ,Compass,"$3,495,000 USD",23.0,0.0,23.0
+505,505,"1024 Shoreline Dr, San Mateo, San Mateo County, CA, 94404",2,2.0,"1,150",0.03 ac,Mahshid Shaghafi ,Christie's Intl Real Estate Se,"$938,888 USD",61.0,32.0,76.0
+506,506,"3815 Fernwood Street , San Mateo, San Mateo County, CA, 94403",3,2.0,"1,320",0,Jim Tierney ,NetEquity Real Estate,"$1,450,000 USD",40.0,35.0,16.0
+507,507,"10 Crystal Springs Road , San Mateo, San Mateo County, CA, 94402",2,2.0,"1,238",0,Linda Druml ,Polaris Pacific,"$1,200,000 USD",95.0,46.0,61.0
+508,508,"200 Elm Street 104, San Mateo, San Mateo County, CA, 94401",1,1.0,865,0.907 ac,Geoffrey Williams ,Compass,"$720,000 USD",88.0,46.0,70.0
+509,509,"2625 Monterey ST, San Mateo, San Mateo County, CA, 94403",4,4.0,"3,300",0.264 ac,Disen Cai RE Group ,KW Peninsula Estates,"$3,680,000 USD",46.0,31.0,25.0
+510,510,"1166 Dover Lane , Foster City, San Mateo County, CA, 94404",3,2.5,"1,790",0,Sue Walsh ,Compass,"$2,798,000 USD",45.0,0.0,56.0
+511,511,"1 Baldwin AVE 319, San Mateo, San Mateo County, CA, 94401",1,1.0,"1,000",0,Joyce Bartel ,Compass,"$225,000 USD",96.0,47.0,69.0
+512,512,"1636 Marina Ct Unit D, San Mateo, San Mateo County, CA, 94403",3,1.5,"1,054",0,Ava McLeod DRE#01965780 ,Alliance Bay Realty,"$849,000 USD",54.0,36.0,75.0
+513,513,"519 Sylvan AVE, San Mateo, San Mateo County, CA, 94403",4,4.0,"2,382",0.127 ac,David Wang ,Compass,"$2,850,888 USD",56.0,37.0,52.0
+514,514,"864 Andromeda LN, Foster City, San Mateo County, CA, 94404",3,3.0,"1,546",3.898 ac,Mary Bee ,RE/MAX Star Properties,"$1,735,000 USD",73.0,0.0,69.0
+515,515,"1830 E Helene CT, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,000",0.211 ac,Corazon Lim ,eXp Realty of California Inc.,"$1,300,000 USD",58.0,29.0,80.0
+516,516,"1006 College AVE, San Mateo, San Mateo County, CA, 94401",3,3.0,"1,786",0.115 ac,Luis Ocon ,eXp Realty of California Inc.,"$1,649,888 USD",71.0,31.0,59.0
+517,517,"1 Baldwin AVE 219, San Mateo, San Mateo County, CA, 94401",1,1.0,"1,000",0,The Sharp Group ,KW Peninsula Estates,"$298,000 USD",96.0,47.0,69.0
+518,518,"845 N Humboldt ST 410, San Mateo, San Mateo County, CA, 94401",1,1.0,693,0,Disen Cai RE Group ,KW Peninsula Estates,"$570,000 USD",78.0,33.0,68.0
+519,519,"626 Crane Ave , Foster City, San Mateo County, CA, 94404",4,2.0,"1,810",0,Suzanne O'Brien ,Intero,"$1,948,000 USD",33.0,0.0,61.0
+520,520,"244 State Street , San Mateo, San Mateo County, CA, 94401",2,2.5,"1,150",0,Mary Molinari ,Coldwell Banker Realty,"$1,080,000 USD",80.0,43.0,70.0
+521,521,"212 Huron AVE, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,120",0.126 ac,Samantha Zhao ,Keller Williams Palo Alto,"$1,450,000 USD",60.0,23.0,72.0
+522,522,"6 Fairoaks Ct, San Mateo, San Mateo County, CA, 94403",3,3.0,"2,420",0.25 ac,Chris VavRosky ,Golden Gate Sotheby's Int'l,"$2,888,000 USD",64.0,30.0,32.0
+523,523,"400 Mariners Island Blvd., #318 , San Mateo, San Mateo County, CA, 94404",2,2.0,0,0,Kathleen Wilson ,Compass,"$739,000 USD",27.0,29.0,70.0
+524,524,"72 W Poplar AVE, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,610",0.136 ac,Denice M. Nagel ,KW Peninsula Estates,"$2,598,000 USD",66.0,42.0,49.0
+525,525,"615 Port Dr #101 , San Mateo, San Mateo County, CA, 94404",2,2.0,"1,121",0,Margot Lockwood & Ricky Flores ,Golden Gate Sotheby's International Realty,"$899,000 USD",17.0,29.0,65.0
+526,526,"1017 Monte Diablo AVE, San Mateo, San Mateo County, CA, 94401",3,2.0,"1,360",0.097 ac,Todd Fernandes ,Intero Real Estate Services,"$1,399,000 USD",83.0,43.0,73.0
+527,527,"841 Kathryne AVE, San Mateo, San Mateo County, CA, 94401",5,2.0,"1,990",0.138 ac,Sandra Darrow ,Real Estate eBroker Inc,"$1,400,000 USD",58.0,29.0,80.0
+528,528,"25495 Southwick Dr 103, Hayward, Alameda County, CA, 94544",2,3.0,"1,500",1.58 ac,Jo Ann Luisi ,Compass,"$724,950 USD",64.0,34.0,65.0
+529,529,"659 Gleneagle AVE, Hayward, Alameda County, CA, 94544",3,2.0,"1,408",0.129 ac,Stacy Mardesich ,RE/MAX Santa Clara Valley,"$999,999 USD",62.0,34.0,34.0
+530,530,"25122 Angelina Ln 18, Hayward, Alameda County, CA, 94544",2,3.0,"1,274",1.5 ac,Dana Riley ,RILEY- RILEY REAL ESTATE,"$699,000 USD",59.0,39.0,59.0
+531,531,"396 Thorne DR, Hayward, Alameda County, CA, 94544",3,2.0,951,0.192 ac,Tony Rosso ,eXp Realty of California Inc.,"$748,000 USD",61.0,53.0,65.0
+532,532,"24349 Michelson Street, Hayward, Alameda County, CA, 94545",4,3.0,"1,723",0.11 ac,Ofelia Vargas ,"eXp Realty of California, Inc","$980,000 USD",39.0,39.0,40.0
+533,533,"28695 Etta Ave, Hayward, Alameda County, CA, 94544",4,3.0,"2,220",0.12 ac,Jigna Atul Patel ,Intero Real Estate Services,"$1,295,000 USD",65.0,47.0,57.0
+534,534,"1430 Almeria Dr, Hayward, Alameda County, CA, 94544",3,2.0,0,0,Thelma Orias ,Alliance Bay Realty,"$398,700 USD",50.0,34.0,53.0
+535,535,"25290 Ironwood Ct, Hayward, Alameda County, CA, 94545",3,3.0,"1,495",0,Samuel Medina ,Village Properties & Assoc.,"$799,000 USD",55.0,42.0,38.0
+536,536,"665 Dartmore 155, Hayward, Alameda County, CA, 94544",2,2.0,906,0.154 ac,Michael Godfrey ,Legacy Real Estate & Assoc,"$549,950 USD",49.0,46.0,24.0
+537,537,"19735 Waverly, Hayward, Alameda County, CA, 94541",3,2.0,"1,182",0.12 ac,Dulce Gavino ,eXp Realty of California,"$840,000 USD",51.0,38.0,54.0
+538,538,"22725 Lorand Way, Hayward, Alameda County, CA, 94541",6,3.0,"1,534",0.15 ac,Meng Wu Moser ,Realty ONE Group Future,"$950,000 USD",66.0,36.0,33.0
+539,539,"3066 Chronicle Ave, Hayward, Alameda County, CA, 94542",4,3.0,"2,846",0.14 ac,Faridoon Lodin ,Alliance Bay Realty,"$1,500,000 USD",41.0,29.0,30.0
+540,540,"26088 Kay Ave 301, Hayward, Alameda County, CA, 94545",2,2.0,840,1.74 ac,Albert Valdez ,Cal Real Estate,"$475,000 USD",48.0,42.0,62.0
+541,541,"26937 Hayward Blvd 105, Hayward, Alameda County, CA, 94542",2,2.0,"1,189",1.21 ac,Anthony Arsondi ,Keller Williams Tri-Valley,"$450,000 USD",57.0,31.0,28.0
+542,542,"721 Garin AVE, Hayward, Alameda County, CA, 94544",3,2.0,"1,430",0.141 ac,Melissa Radtke ,eXp Realty of California Inc.,"$749,888 USD",64.0,34.0,24.0
+543,543,"1414 Alcazar Ave., Hayward, Alameda County, CA, 94544",2,2.0,"1,368",0,Alex Chow ,Alliance Manufactured Homes,"$229,000 USD",53.0,33.0,53.0
+544,544,"149 Cue Way, Hayward, Alameda County, CA, 94544",3,4.0,"1,760",0.23 ac,Shelly Flynn ,Corcoran Global Living,"$900,000 USD",58.0,50.0,63.0
+545,545,"3212 OAKES DRIVE, Hayward, Alameda County, CA, 94542",4,3.0,"1,914",0.257 ac,Laura Engen ,eXp Realty of California,"$1,299,999 USD",7.0,26.0,18.0
+546,546,"25860 Gettysburg Ave, Hayward, Alameda County, CA, 94545",3,2.0,"1,163",0.13 ac,Dawar Lodin ,Alliance Bay Realty,"$1,150,000 USD",38.0,42.0,39.0
+547,547,"18448 Standish Ave, Hayward, Alameda County, CA, 94541",2,2.0,866,0.43 ac,JENNIFER OUK ,eXp Realty of California,"$647,000 USD",58.0,0.0,57.0
+548,548,"20903 Locust St. B, Hayward, Alameda County, CA, 94541",2,2.0,"1,355",0.05 ac,Richard Mann ,Realty One Group Elite,"$599,000 USD",56.0,0.0,23.0
+549,549,"588 paradise, Hayward, Alameda County, CA, 94541",3,2.0,"1,146",0.14 ac,Rod Abdolhosseini ,Keller Williams Realty,"$770,000 USD",55.0,39.0,47.0
+550,550,"25495 Southwick Dr 103, Hayward, Alameda County, CA, 94544",2,3.0,"1,500",1.58 ac,Jo Ann Luisi ,Compass,"$724,950 USD",64.0,34.0,65.0
+551,551,"659 Gleneagle AVE, Hayward, Alameda County, CA, 94544",3,2.0,"1,408",0.129 ac,Stacy Mardesich ,RE/MAX Santa Clara Valley,"$999,999 USD",62.0,34.0,34.0
+552,552,"25122 Angelina Ln 18, Hayward, Alameda County, CA, 94544",2,3.0,"1,274",1.5 ac,Dana Riley ,RILEY- RILEY REAL ESTATE,"$699,000 USD",59.0,39.0,59.0
+553,553,"396 Thorne DR, Hayward, Alameda County, CA, 94544",3,2.0,951,0.192 ac,Tony Rosso ,eXp Realty of California Inc.,"$748,000 USD",61.0,53.0,65.0
+554,554,"24349 Michelson Street, Hayward, Alameda County, CA, 94545",4,3.0,"1,723",0.11 ac,Ofelia Vargas ,"eXp Realty of California, Inc","$980,000 USD",39.0,39.0,40.0
+555,555,"28695 Etta Ave, Hayward, Alameda County, CA, 94544",4,3.0,"2,220",0.12 ac,Jigna Atul Patel ,Intero Real Estate Services,"$1,295,000 USD",65.0,47.0,57.0
+556,556,"1430 Almeria Dr, Hayward, Alameda County, CA, 94544",3,2.0,0,0,Thelma Orias ,Alliance Bay Realty,"$398,700 USD",50.0,34.0,53.0
+557,557,"25290 Ironwood Ct, Hayward, Alameda County, CA, 94545",3,3.0,"1,495",0,Samuel Medina ,Village Properties & Assoc.,"$799,000 USD",55.0,42.0,38.0
+558,558,"665 Dartmore 155, Hayward, Alameda County, CA, 94544",2,2.0,906,0.154 ac,Michael Godfrey ,Legacy Real Estate & Assoc,"$549,950 USD",49.0,46.0,24.0
+559,559,"19735 Waverly, Hayward, Alameda County, CA, 94541",3,2.0,"1,182",0.12 ac,Dulce Gavino ,eXp Realty of California,"$840,000 USD",51.0,38.0,54.0
+560,560,"22725 Lorand Way, Hayward, Alameda County, CA, 94541",6,3.0,"1,534",0.15 ac,Meng Wu Moser ,Realty ONE Group Future,"$950,000 USD",66.0,36.0,33.0
+561,561,"3066 Chronicle Ave, Hayward, Alameda County, CA, 94542",4,3.0,"2,846",0.14 ac,Faridoon Lodin ,Alliance Bay Realty,"$1,500,000 USD",41.0,29.0,30.0
+562,562,"26088 Kay Ave 301, Hayward, Alameda County, CA, 94545",2,2.0,840,1.74 ac,Albert Valdez ,Cal Real Estate,"$475,000 USD",48.0,42.0,62.0
+563,563,"26937 Hayward Blvd 105, Hayward, Alameda County, CA, 94542",2,2.0,"1,189",1.21 ac,Anthony Arsondi ,Keller Williams Tri-Valley,"$450,000 USD",57.0,31.0,28.0
+564,564,"721 Garin AVE, Hayward, Alameda County, CA, 94544",3,2.0,"1,430",0.141 ac,Melissa Radtke ,eXp Realty of California Inc.,"$749,888 USD",64.0,34.0,24.0
+565,565,"1414 Alcazar Ave., Hayward, Alameda County, CA, 94544",2,2.0,"1,368",0,Alex Chow ,Alliance Manufactured Homes,"$229,000 USD",53.0,33.0,53.0
+566,566,"149 Cue Way, Hayward, Alameda County, CA, 94544",3,4.0,"1,760",0.23 ac,Shelly Flynn ,Corcoran Global Living,"$900,000 USD",58.0,50.0,63.0
+567,567,"3212 OAKES DRIVE, Hayward, Alameda County, CA, 94542",4,3.0,"1,914",0.257 ac,Laura Engen ,eXp Realty of California,"$1,299,999 USD",7.0,26.0,18.0
+568,568,"25860 Gettysburg Ave, Hayward, Alameda County, CA, 94545",3,2.0,"1,163",0.13 ac,Dawar Lodin ,Alliance Bay Realty,"$1,150,000 USD",38.0,42.0,39.0
+569,569,"18448 Standish Ave, Hayward, Alameda County, CA, 94541",2,2.0,866,0.43 ac,JENNIFER OUK ,eXp Realty of California,"$647,000 USD",58.0,0.0,57.0
+570,570,"20903 Locust St. B, Hayward, Alameda County, CA, 94541",2,2.0,"1,355",0.05 ac,Richard Mann ,Realty One Group Elite,"$599,000 USD",56.0,0.0,23.0
+571,571,"588 paradise, Hayward, Alameda County, CA, 94541",3,2.0,"1,146",0.14 ac,Rod Abdolhosseini ,Keller Williams Realty,"$770,000 USD",55.0,39.0,47.0
+572,572,"25495 Southwick Dr 103, Hayward, Alameda County, CA, 94544",2,3.0,"1,500",1.58 ac,Jo Ann Luisi ,Compass,"$724,950 USD",64.0,34.0,65.0
+573,573,"659 Gleneagle AVE, Hayward, Alameda County, CA, 94544",3,2.0,"1,408",0.129 ac,Stacy Mardesich ,RE/MAX Santa Clara Valley,"$999,999 USD",62.0,34.0,34.0
+574,574,"25122 Angelina Ln 18, Hayward, Alameda County, CA, 94544",2,3.0,"1,274",1.5 ac,Dana Riley ,RILEY- RILEY REAL ESTATE,"$699,000 USD",59.0,39.0,59.0
+575,575,"396 Thorne DR, Hayward, Alameda County, CA, 94544",3,2.0,951,0.192 ac,Tony Rosso ,eXp Realty of California Inc.,"$748,000 USD",61.0,53.0,65.0
+576,576,"24349 Michelson Street, Hayward, Alameda County, CA, 94545",4,3.0,"1,723",0.11 ac,Ofelia Vargas ,"eXp Realty of California, Inc","$980,000 USD",39.0,39.0,40.0
+577,577,"28695 Etta Ave, Hayward, Alameda County, CA, 94544",4,3.0,"2,220",0.12 ac,Jigna Atul Patel ,Intero Real Estate Services,"$1,295,000 USD",65.0,47.0,57.0
+578,578,"1430 Almeria Dr, Hayward, Alameda County, CA, 94544",3,2.0,0,0,Thelma Orias ,Alliance Bay Realty,"$398,700 USD",50.0,34.0,53.0
+579,579,"25290 Ironwood Ct, Hayward, Alameda County, CA, 94545",3,3.0,"1,495",0,Samuel Medina ,Village Properties & Assoc.,"$799,000 USD",55.0,42.0,38.0
+580,580,"665 Dartmore 155, Hayward, Alameda County, CA, 94544",2,2.0,906,0.154 ac,Michael Godfrey ,Legacy Real Estate & Assoc,"$549,950 USD",49.0,46.0,24.0
+581,581,"19735 Waverly, Hayward, Alameda County, CA, 94541",3,2.0,"1,182",0.12 ac,Dulce Gavino ,eXp Realty of California,"$840,000 USD",51.0,38.0,54.0
+582,582,"22725 Lorand Way, Hayward, Alameda County, CA, 94541",6,3.0,"1,534",0.15 ac,Meng Wu Moser ,Realty ONE Group Future,"$950,000 USD",66.0,36.0,33.0
+583,583,"3066 Chronicle Ave, Hayward, Alameda County, CA, 94542",4,3.0,"2,846",0.14 ac,Faridoon Lodin ,Alliance Bay Realty,"$1,500,000 USD",41.0,29.0,30.0
+584,584,"26088 Kay Ave 301, Hayward, Alameda County, CA, 94545",2,2.0,840,1.74 ac,Albert Valdez ,Cal Real Estate,"$475,000 USD",48.0,42.0,62.0
+585,585,"26937 Hayward Blvd 105, Hayward, Alameda County, CA, 94542",2,2.0,"1,189",1.21 ac,Anthony Arsondi ,Keller Williams Tri-Valley,"$450,000 USD",57.0,31.0,28.0
+586,586,"721 Garin AVE, Hayward, Alameda County, CA, 94544",3,2.0,"1,430",0.141 ac,Melissa Radtke ,eXp Realty of California Inc.,"$749,888 USD",64.0,34.0,24.0
+587,587,"1414 Alcazar Ave., Hayward, Alameda County, CA, 94544",2,2.0,"1,368",0,Alex Chow ,Alliance Manufactured Homes,"$229,000 USD",53.0,33.0,53.0
+588,588,"149 Cue Way, Hayward, Alameda County, CA, 94544",3,4.0,"1,760",0.23 ac,Shelly Flynn ,Corcoran Global Living,"$900,000 USD",58.0,50.0,63.0
+589,589,"3212 OAKES DRIVE, Hayward, Alameda County, CA, 94542",4,3.0,"1,914",0.257 ac,Laura Engen ,eXp Realty of California,"$1,299,999 USD",7.0,26.0,18.0
+590,590,"25860 Gettysburg Ave, Hayward, Alameda County, CA, 94545",3,2.0,"1,163",0.13 ac,Dawar Lodin ,Alliance Bay Realty,"$1,150,000 USD",38.0,42.0,39.0
+591,591,"18448 Standish Ave, Hayward, Alameda County, CA, 94541",2,2.0,866,0.43 ac,JENNIFER OUK ,eXp Realty of California,"$647,000 USD",58.0,0.0,57.0
+592,592,"20903 Locust St. B, Hayward, Alameda County, CA, 94541",2,2.0,"1,355",0.05 ac,Richard Mann ,Realty One Group Elite,"$599,000 USD",56.0,0.0,23.0
+593,593,"588 paradise, Hayward, Alameda County, CA, 94541",3,2.0,"1,146",0.14 ac,Rod Abdolhosseini ,Keller Williams Realty,"$770,000 USD",55.0,39.0,47.0
+594,594,"25495 Southwick Dr 103, Hayward, Alameda County, CA, 94544",2,3.0,"1,500",1.58 ac,Jo Ann Luisi ,Compass,"$724,950 USD",64.0,34.0,65.0
+595,595,"659 Gleneagle AVE, Hayward, Alameda County, CA, 94544",3,2.0,"1,408",0.129 ac,Stacy Mardesich ,RE/MAX Santa Clara Valley,"$999,999 USD",62.0,34.0,34.0
+596,596,"25122 Angelina Ln 18, Hayward, Alameda County, CA, 94544",2,3.0,"1,274",1.5 ac,Dana Riley ,RILEY- RILEY REAL ESTATE,"$699,000 USD",59.0,39.0,59.0
+597,597,"396 Thorne DR, Hayward, Alameda County, CA, 94544",3,2.0,951,0.192 ac,Tony Rosso ,eXp Realty of California Inc.,"$748,000 USD",61.0,53.0,65.0
+598,598,"24349 Michelson Street, Hayward, Alameda County, CA, 94545",4,3.0,"1,723",0.11 ac,Ofelia Vargas ,"eXp Realty of California, Inc","$980,000 USD",39.0,39.0,40.0
+599,599,"28695 Etta Ave, Hayward, Alameda County, CA, 94544",4,3.0,"2,220",0.12 ac,Jigna Atul Patel ,Intero Real Estate Services,"$1,295,000 USD",65.0,47.0,57.0
+600,600,"1430 Almeria Dr, Hayward, Alameda County, CA, 94544",3,2.0,0,0,Thelma Orias ,Alliance Bay Realty,"$398,700 USD",50.0,34.0,53.0
+601,601,"25290 Ironwood Ct, Hayward, Alameda County, CA, 94545",3,3.0,"1,495",0,Samuel Medina ,Village Properties & Assoc.,"$799,000 USD",55.0,42.0,38.0
+602,602,"665 Dartmore 155, Hayward, Alameda County, CA, 94544",2,2.0,906,0.154 ac,Michael Godfrey ,Legacy Real Estate & Assoc,"$549,950 USD",49.0,46.0,24.0
+603,603,"19735 Waverly, Hayward, Alameda County, CA, 94541",3,2.0,"1,182",0.12 ac,Dulce Gavino ,eXp Realty of California,"$840,000 USD",51.0,38.0,54.0
+604,604,"22725 Lorand Way, Hayward, Alameda County, CA, 94541",6,3.0,"1,534",0.15 ac,Meng Wu Moser ,Realty ONE Group Future,"$950,000 USD",66.0,36.0,33.0
+605,605,"3066 Chronicle Ave, Hayward, Alameda County, CA, 94542",4,3.0,"2,846",0.14 ac,Faridoon Lodin ,Alliance Bay Realty,"$1,500,000 USD",41.0,29.0,30.0
+606,606,"26088 Kay Ave 301, Hayward, Alameda County, CA, 94545",2,2.0,840,1.74 ac,Albert Valdez ,Cal Real Estate,"$475,000 USD",48.0,42.0,62.0
+607,607,"26937 Hayward Blvd 105, Hayward, Alameda County, CA, 94542",2,2.0,"1,189",1.21 ac,Anthony Arsondi ,Keller Williams Tri-Valley,"$450,000 USD",57.0,31.0,28.0
+608,608,"721 Garin AVE, Hayward, Alameda County, CA, 94544",3,2.0,"1,430",0.141 ac,Melissa Radtke ,eXp Realty of California Inc.,"$749,888 USD",64.0,34.0,24.0
+609,609,"1414 Alcazar Ave., Hayward, Alameda County, CA, 94544",2,2.0,"1,368",0,Alex Chow ,Alliance Manufactured Homes,"$229,000 USD",53.0,33.0,53.0
+610,610,"149 Cue Way, Hayward, Alameda County, CA, 94544",3,4.0,"1,760",0.23 ac,Shelly Flynn ,Corcoran Global Living,"$900,000 USD",58.0,50.0,63.0
+611,611,"3212 OAKES DRIVE, Hayward, Alameda County, CA, 94542",4,3.0,"1,914",0.257 ac,Laura Engen ,eXp Realty of California,"$1,299,999 USD",7.0,26.0,18.0
+612,612,"25860 Gettysburg Ave, Hayward, Alameda County, CA, 94545",3,2.0,"1,163",0.13 ac,Dawar Lodin ,Alliance Bay Realty,"$1,150,000 USD",38.0,42.0,39.0
+613,613,"18448 Standish Ave, Hayward, Alameda County, CA, 94541",2,2.0,866,0.43 ac,JENNIFER OUK ,eXp Realty of California,"$647,000 USD",58.0,0.0,57.0
+614,614,"20903 Locust St. B, Hayward, Alameda County, CA, 94541",2,2.0,"1,355",0.05 ac,Richard Mann ,Realty One Group Elite,"$599,000 USD",56.0,0.0,23.0
+615,615,"588 paradise, Hayward, Alameda County, CA, 94541",3,2.0,"1,146",0.14 ac,Rod Abdolhosseini ,Keller Williams Realty,"$770,000 USD",55.0,39.0,47.0
+616,616,"5350 Campus Dr, Dublin, Alameda County, CA, 94568",3,3.0,"1,598",0,Manel Sousou ,Keller Williams Tri-Valley,"$1,065,000 USD",54.0,0.0,90.0
+617,617,"7020 Stagecoach Rd C, Dublin, Alameda County, CA, 94568",1,2.0,722,0,Pamela Jenkins ,Keller Williams Realty,"$475,000 USD",44.0,0.0,80.0
+618,618,"11403 Betlen Dr, Dublin, Alameda County, CA, 94568",3,2.0,"1,860",0.24 ac,Nahid Monahelis ,Select Properties,"$1,350,000 USD",39.0,0.0,28.0
+619,619,"11643 Silvergate Dr, Dublin, Alameda County, CA, 94568",4,2.0,"1,888",0.164 ac,Amin Arikat ,Redfin,"$1,390,000 USD",44.0,0.0,63.0
+620,620,"7736 Lisa Ct, Dublin, Alameda County, CA, 94568",3,2.0,"2,096",0.17 ac,Janice Colby ,Keller Williams Tri-Valley Rea,"$1,388,000 USD",64.0,0.0,64.0
+621,621,"5801 Huntley Ave, Dublin, Alameda County, CA, 94568",5,4.0,"2,691",0.05 ac,Rajeev Awasty ,Intero Real Estate Services,"$1,499,000 USD",51.0,0.0,92.0
+622,622,"4335 Fitzwilliam St, Dublin, Alameda County, CA, 94568",2,2.0,"1,519",0,Kim Deol ,Intero Real Estate Services,"$819,000 USD",51.0,0.0,63.0
+623,623,"3592 Rocking Horse Ct, Dublin, Alameda County, CA, 94568",4,3.0,"2,079",0.07 ac,Manel Sousou ,Keller Williams Tri-Valley,"$1,488,000 USD",3.0,0.0,20.0
+624,624,"3728 Aviano Way, Dublin, Alameda County, CA, 94568",3,4.0,"2,322",0,Zeeshan Shaikh ,Re/Max Accord,"$1,248,000 USD",54.0,0.0,60.0
+625,625,"3676 Rimini Ln, Dublin, Alameda County, CA, 94568",3,4.0,"2,380",0,Lia Wendell ,Re/Max Accord,"$1,199,000 USD",47.0,0.0,61.0
+626,626,"4599 Rimini Court, Dublin, Alameda County, CA, 94568",3,3.0,"1,956",0,Jason Zaitz ,Compass,"$1,099,000 USD",52.0,0.0,71.0
+627,627,"7317 Bower, Dublin, Alameda County, CA, 94568",3,2.0,"1,387",0,Annie Cheng ,Compass,"$899,000 USD",7.0,0.0,19.0
+628,628,"5991 Sterling St, Dublin, Alameda County, CA, 94568",4,3.0,"2,451",0.06 ac,Kim Deol ,Intero Real Estate Services,"$1,549,000 USD",34.0,0.0,79.0
+629,629,"3725 Whitworth Dr, Dublin, Alameda County, CA, 94568",4,4.0,"2,112",0,Ray Hosseini ,Keller Williams Realty,"$1,185,000 USD",52.0,0.0,71.0
+630,630,"6816 Cedar Ln, Dublin, Alameda County, CA, 94568",3,2.0,"1,060",0.13 ac,Jeff Clyma ,Re/Max Accord,"$995,000 USD",66.0,0.0,79.0
+631,631,"7564 Kilrush Ave, Dublin, Alameda County, CA, 94568",3,2.0,"1,116",0.17 ac,Emily Barraclough ,Compass,"$1,299,999 USD",27.0,0.0,44.0
+632,632,"7865 Tamarack Dr, Dublin, Alameda County, CA, 94568",3,2.0,"1,332",0.16 ac,Bill Truong ,Keller Williams Benchmark,"$1,229,000 USD",52.0,0.0,61.0
+633,633,"4217 Clarinbridge Cir, Dublin, Alameda County, CA, 94568",2,3.0,"1,401",0,Amin Arikat ,Redfin,"$888,000 USD",64.0,0.0,73.0
+634,634,"4340 Fitzwilliam St, Dublin, Alameda County, CA, 94568",2,2.0,"1,519",0,Farnaz Murcray ,RE/MAX Accord,"$825,000 USD",50.0,0.0,64.0
+635,635,"8611 Davona Dr, Dublin, Alameda County, CA, 94568",4,2.0,"2,168",0.18 ac,Dao Pham ,Realty ONE Group Future,"$1,249,000 USD",48.0,0.0,53.0
+636,636,"4271 Clarinbridge Cir, Dublin, Alameda County, CA, 94568",2,3.0,"1,428",0,Lana Carreira ,Redfin,"$799,000 USD",67.0,0.0,65.0
+637,637,"6231 Sussex Dr, Dublin, Alameda County, CA, 94568",3,3.0,"1,396",0.04 ac,Liz McKinney ,Keller Williams Tri-Valley,"$945,000 USD",71.0,0.0,97.0
+638,638,"7323 Bower Ln, Dublin, Alameda County, CA, 94568",3,3.0,"1,520",0,Suman Bazaz ,Alliance Bay Realty,"$939,000 USD",7.0,0.0,16.0
+639,639,"5350 Campus Dr, Dublin, Alameda County, CA, 94568",3,3.0,"1,598",0,Manel Sousou ,Keller Williams Tri-Valley,"$1,065,000 USD",54.0,0.0,90.0
+640,640,"7020 Stagecoach Rd C, Dublin, Alameda County, CA, 94568",1,2.0,722,0,Pamela Jenkins ,Keller Williams Realty,"$475,000 USD",44.0,0.0,80.0
+641,641,"11403 Betlen Dr, Dublin, Alameda County, CA, 94568",3,2.0,"1,860",0.24 ac,Nahid Monahelis ,Select Properties,"$1,350,000 USD",39.0,0.0,28.0
+642,642,"11643 Silvergate Dr, Dublin, Alameda County, CA, 94568",4,2.0,"1,888",0.164 ac,Amin Arikat ,Redfin,"$1,390,000 USD",44.0,0.0,63.0
+643,643,"7736 Lisa Ct, Dublin, Alameda County, CA, 94568",3,2.0,"2,096",0.17 ac,Janice Colby ,Keller Williams Tri-Valley Rea,"$1,388,000 USD",64.0,0.0,64.0
+644,644,"5801 Huntley Ave, Dublin, Alameda County, CA, 94568",5,4.0,"2,691",0.05 ac,Rajeev Awasty ,Intero Real Estate Services,"$1,499,000 USD",51.0,0.0,92.0
+645,645,"4335 Fitzwilliam St, Dublin, Alameda County, CA, 94568",2,2.0,"1,519",0,Kim Deol ,Intero Real Estate Services,"$819,000 USD",51.0,0.0,63.0
+646,646,"3592 Rocking Horse Ct, Dublin, Alameda County, CA, 94568",4,3.0,"2,079",0.07 ac,Manel Sousou ,Keller Williams Tri-Valley,"$1,488,000 USD",3.0,0.0,20.0
+647,647,"3728 Aviano Way, Dublin, Alameda County, CA, 94568",3,4.0,"2,322",0,Zeeshan Shaikh ,Re/Max Accord,"$1,248,000 USD",54.0,0.0,60.0
+648,648,"3676 Rimini Ln, Dublin, Alameda County, CA, 94568",3,4.0,"2,380",0,Lia Wendell ,Re/Max Accord,"$1,199,000 USD",47.0,0.0,61.0
+649,649,"4599 Rimini Court, Dublin, Alameda County, CA, 94568",3,3.0,"1,956",0,Jason Zaitz ,Compass,"$1,099,000 USD",52.0,0.0,71.0
+650,650,"7317 Bower, Dublin, Alameda County, CA, 94568",3,2.0,"1,387",0,Annie Cheng ,Compass,"$899,000 USD",7.0,0.0,19.0
+651,651,"5991 Sterling St, Dublin, Alameda County, CA, 94568",4,3.0,"2,451",0.06 ac,Kim Deol ,Intero Real Estate Services,"$1,549,000 USD",34.0,0.0,79.0
+652,652,"3725 Whitworth Dr, Dublin, Alameda County, CA, 94568",4,4.0,"2,112",0,Ray Hosseini ,Keller Williams Realty,"$1,185,000 USD",52.0,0.0,71.0
+653,653,"6816 Cedar Ln, Dublin, Alameda County, CA, 94568",3,2.0,"1,060",0.13 ac,Jeff Clyma ,Re/Max Accord,"$995,000 USD",66.0,0.0,79.0
+654,654,"7564 Kilrush Ave, Dublin, Alameda County, CA, 94568",3,2.0,"1,116",0.17 ac,Emily Barraclough ,Compass,"$1,299,999 USD",27.0,0.0,44.0
+655,655,"7865 Tamarack Dr, Dublin, Alameda County, CA, 94568",3,2.0,"1,332",0.16 ac,Bill Truong ,Keller Williams Benchmark,"$1,229,000 USD",52.0,0.0,61.0
+656,656,"4217 Clarinbridge Cir, Dublin, Alameda County, CA, 94568",2,3.0,"1,401",0,Amin Arikat ,Redfin,"$888,000 USD",64.0,0.0,73.0
+657,657,"4340 Fitzwilliam St, Dublin, Alameda County, CA, 94568",2,2.0,"1,519",0,Farnaz Murcray ,RE/MAX Accord,"$825,000 USD",50.0,0.0,64.0
+658,658,"8611 Davona Dr, Dublin, Alameda County, CA, 94568",4,2.0,"2,168",0.18 ac,Dao Pham ,Realty ONE Group Future,"$1,249,000 USD",48.0,0.0,53.0
+659,659,"4271 Clarinbridge Cir, Dublin, Alameda County, CA, 94568",2,3.0,"1,428",0,Lana Carreira ,Redfin,"$799,000 USD",67.0,0.0,65.0
+660,660,"6231 Sussex Dr, Dublin, Alameda County, CA, 94568",3,3.0,"1,396",0.04 ac,Liz McKinney ,Keller Williams Tri-Valley,"$945,000 USD",71.0,0.0,97.0
+661,661,"7323 Bower Ln, Dublin, Alameda County, CA, 94568",3,3.0,"1,520",0,Suman Bazaz ,Alliance Bay Realty,"$939,000 USD",7.0,0.0,16.0
+662,662,"5350 Campus Dr, Dublin, Alameda County, CA, 94568",3,3.0,"1,598",0,Manel Sousou ,Keller Williams Tri-Valley,"$1,065,000 USD",54.0,0.0,90.0
+663,663,"7020 Stagecoach Rd C, Dublin, Alameda County, CA, 94568",1,2.0,722,0,Pamela Jenkins ,Keller Williams Realty,"$475,000 USD",44.0,0.0,80.0
+664,664,"11403 Betlen Dr, Dublin, Alameda County, CA, 94568",3,2.0,"1,860",0.24 ac,Nahid Monahelis ,Select Properties,"$1,350,000 USD",39.0,0.0,28.0
+665,665,"11643 Silvergate Dr, Dublin, Alameda County, CA, 94568",4,2.0,"1,888",0.164 ac,Amin Arikat ,Redfin,"$1,390,000 USD",44.0,0.0,63.0
+666,666,"7736 Lisa Ct, Dublin, Alameda County, CA, 94568",3,2.0,"2,096",0.17 ac,Janice Colby ,Keller Williams Tri-Valley Rea,"$1,388,000 USD",64.0,0.0,64.0
+667,667,"5801 Huntley Ave, Dublin, Alameda County, CA, 94568",5,4.0,"2,691",0.05 ac,Rajeev Awasty ,Intero Real Estate Services,"$1,499,000 USD",51.0,0.0,92.0
+668,668,"4335 Fitzwilliam St, Dublin, Alameda County, CA, 94568",2,2.0,"1,519",0,Kim Deol ,Intero Real Estate Services,"$819,000 USD",51.0,0.0,63.0
+669,669,"3592 Rocking Horse Ct, Dublin, Alameda County, CA, 94568",4,3.0,"2,079",0.07 ac,Manel Sousou ,Keller Williams Tri-Valley,"$1,488,000 USD",3.0,0.0,20.0
+670,670,"3728 Aviano Way, Dublin, Alameda County, CA, 94568",3,4.0,"2,322",0,Zeeshan Shaikh ,Re/Max Accord,"$1,248,000 USD",54.0,0.0,60.0
+671,671,"3676 Rimini Ln, Dublin, Alameda County, CA, 94568",3,4.0,"2,380",0,Lia Wendell ,Re/Max Accord,"$1,199,000 USD",47.0,0.0,61.0
+672,672,"4599 Rimini Court, Dublin, Alameda County, CA, 94568",3,3.0,"1,956",0,Jason Zaitz ,Compass,"$1,099,000 USD",52.0,0.0,71.0
+673,673,"7317 Bower, Dublin, Alameda County, CA, 94568",3,2.0,"1,387",0,Annie Cheng ,Compass,"$899,000 USD",7.0,0.0,19.0
+674,674,"5991 Sterling St, Dublin, Alameda County, CA, 94568",4,3.0,"2,451",0.06 ac,Kim Deol ,Intero Real Estate Services,"$1,549,000 USD",34.0,0.0,79.0
+675,675,"3725 Whitworth Dr, Dublin, Alameda County, CA, 94568",4,4.0,"2,112",0,Ray Hosseini ,Keller Williams Realty,"$1,185,000 USD",52.0,0.0,71.0
+676,676,"6816 Cedar Ln, Dublin, Alameda County, CA, 94568",3,2.0,"1,060",0.13 ac,Jeff Clyma ,Re/Max Accord,"$995,000 USD",66.0,0.0,79.0
+677,677,"7564 Kilrush Ave, Dublin, Alameda County, CA, 94568",3,2.0,"1,116",0.17 ac,Emily Barraclough ,Compass,"$1,299,999 USD",27.0,0.0,44.0
+678,678,"7865 Tamarack Dr, Dublin, Alameda County, CA, 94568",3,2.0,"1,332",0.16 ac,Bill Truong ,Keller Williams Benchmark,"$1,229,000 USD",52.0,0.0,61.0
+679,679,"4217 Clarinbridge Cir, Dublin, Alameda County, CA, 94568",2,3.0,"1,401",0,Amin Arikat ,Redfin,"$888,000 USD",64.0,0.0,73.0
+680,680,"4340 Fitzwilliam St, Dublin, Alameda County, CA, 94568",2,2.0,"1,519",0,Farnaz Murcray ,RE/MAX Accord,"$825,000 USD",50.0,0.0,64.0
+681,681,"8611 Davona Dr, Dublin, Alameda County, CA, 94568",4,2.0,"2,168",0.18 ac,Dao Pham ,Realty ONE Group Future,"$1,249,000 USD",48.0,0.0,53.0
+682,682,"4271 Clarinbridge Cir, Dublin, Alameda County, CA, 94568",2,3.0,"1,428",0,Lana Carreira ,Redfin,"$799,000 USD",67.0,0.0,65.0
+683,683,"6231 Sussex Dr, Dublin, Alameda County, CA, 94568",3,3.0,"1,396",0.04 ac,Liz McKinney ,Keller Williams Tri-Valley,"$945,000 USD",71.0,0.0,97.0
+684,684,"7323 Bower Ln, Dublin, Alameda County, CA, 94568",3,3.0,"1,520",0,Suman Bazaz ,Alliance Bay Realty,"$939,000 USD",7.0,0.0,16.0
+685,685,"5350 Campus Dr, Dublin, Alameda County, CA, 94568",3,3.0,"1,598",0,Manel Sousou ,Keller Williams Tri-Valley,"$1,065,000 USD",54.0,0.0,90.0
+686,686,"7020 Stagecoach Rd C, Dublin, Alameda County, CA, 94568",1,2.0,722,0,Pamela Jenkins ,Keller Williams Realty,"$475,000 USD",44.0,0.0,80.0
+687,687,"11403 Betlen Dr, Dublin, Alameda County, CA, 94568",3,2.0,"1,860",0.24 ac,Nahid Monahelis ,Select Properties,"$1,350,000 USD",39.0,0.0,28.0
+688,688,"11643 Silvergate Dr, Dublin, Alameda County, CA, 94568",4,2.0,"1,888",0.164 ac,Amin Arikat ,Redfin,"$1,390,000 USD",44.0,0.0,63.0
+689,689,"7736 Lisa Ct, Dublin, Alameda County, CA, 94568",3,2.0,"2,096",0.17 ac,Janice Colby ,Keller Williams Tri-Valley Rea,"$1,388,000 USD",64.0,0.0,64.0
+690,690,"5801 Huntley Ave, Dublin, Alameda County, CA, 94568",5,4.0,"2,691",0.05 ac,Rajeev Awasty ,Intero Real Estate Services,"$1,499,000 USD",51.0,0.0,92.0
+691,691,"4335 Fitzwilliam St, Dublin, Alameda County, CA, 94568",2,2.0,"1,519",0,Kim Deol ,Intero Real Estate Services,"$819,000 USD",51.0,0.0,63.0
+692,692,"3592 Rocking Horse Ct, Dublin, Alameda County, CA, 94568",4,3.0,"2,079",0.07 ac,Manel Sousou ,Keller Williams Tri-Valley,"$1,488,000 USD",3.0,0.0,20.0
+693,693,"3728 Aviano Way, Dublin, Alameda County, CA, 94568",3,4.0,"2,322",0,Zeeshan Shaikh ,Re/Max Accord,"$1,248,000 USD",54.0,0.0,60.0
+694,694,"3676 Rimini Ln, Dublin, Alameda County, CA, 94568",3,4.0,"2,380",0,Lia Wendell ,Re/Max Accord,"$1,199,000 USD",47.0,0.0,61.0
+695,695,"4599 Rimini Court, Dublin, Alameda County, CA, 94568",3,3.0,"1,956",0,Jason Zaitz ,Compass,"$1,099,000 USD",52.0,0.0,71.0
+696,696,"7317 Bower, Dublin, Alameda County, CA, 94568",3,2.0,"1,387",0,Annie Cheng ,Compass,"$899,000 USD",7.0,0.0,19.0
+697,697,"5991 Sterling St, Dublin, Alameda County, CA, 94568",4,3.0,"2,451",0.06 ac,Kim Deol ,Intero Real Estate Services,"$1,549,000 USD",34.0,0.0,79.0
+698,698,"3725 Whitworth Dr, Dublin, Alameda County, CA, 94568",4,4.0,"2,112",0,Ray Hosseini ,Keller Williams Realty,"$1,185,000 USD",52.0,0.0,71.0
+699,699,"6816 Cedar Ln, Dublin, Alameda County, CA, 94568",3,2.0,"1,060",0.13 ac,Jeff Clyma ,Re/Max Accord,"$995,000 USD",66.0,0.0,79.0
+700,700,"7564 Kilrush Ave, Dublin, Alameda County, CA, 94568",3,2.0,"1,116",0.17 ac,Emily Barraclough ,Compass,"$1,299,999 USD",27.0,0.0,44.0
+701,701,"7865 Tamarack Dr, Dublin, Alameda County, CA, 94568",3,2.0,"1,332",0.16 ac,Bill Truong ,Keller Williams Benchmark,"$1,229,000 USD",52.0,0.0,61.0
+702,702,"4217 Clarinbridge Cir, Dublin, Alameda County, CA, 94568",2,3.0,"1,401",0,Amin Arikat ,Redfin,"$888,000 USD",64.0,0.0,73.0
+703,703,"4340 Fitzwilliam St, Dublin, Alameda County, CA, 94568",2,2.0,"1,519",0,Farnaz Murcray ,RE/MAX Accord,"$825,000 USD",50.0,0.0,64.0
+704,704,"8611 Davona Dr, Dublin, Alameda County, CA, 94568",4,2.0,"2,168",0.18 ac,Dao Pham ,Realty ONE Group Future,"$1,249,000 USD",48.0,0.0,53.0
+705,705,"4271 Clarinbridge Cir, Dublin, Alameda County, CA, 94568",2,3.0,"1,428",0,Lana Carreira ,Redfin,"$799,000 USD",67.0,0.0,65.0
+706,706,"6231 Sussex Dr, Dublin, Alameda County, CA, 94568",3,3.0,"1,396",0.04 ac,Liz McKinney ,Keller Williams Tri-Valley,"$945,000 USD",71.0,0.0,97.0
+707,707,"7323 Bower Ln, Dublin, Alameda County, CA, 94568",3,3.0,"1,520",0,Suman Bazaz ,Alliance Bay Realty,"$939,000 USD",7.0,0.0,16.0
+708,708,"15 Leigh Ct., San Ramon, Contra Costa County, CA, 94582",4,3.0,"2,460",0.22 ac,Paul Zuvella ,Compass,"$1,825,000 USD",42.0,0.0,63.0
+709,709,"3482 Cinnamon Ridge Rd , San Ramon, Contra Costa County, CA, 94582",4,4.5,"2,921",0,Joujou Chawla ,Compass,"$2,099,500 USD",12.0,0.0,20.0
+710,710,"2695 Shadow Mountain Dr, San Ramon, Contra Costa County, CA, 94583",2,2.0,"1,281",0.06 ac,Crystal Florida ,Compass,"$888,000 USD",77.0,0.0,56.0
+711,711,"3542 Rosincress Dr, San Ramon, Contra Costa County, CA, 94582",5,5.0,"3,847",0.23 ac,Peter Bareiss ,RE/MAX Accord,"$2,975,000 USD",16.0,0.0,12.0
+712,712,"5261 Pembroke Way , San Ramon, Contra Costa County, CA, 94582",6,4.5,"4,406",0,Frazzano Tse Team ,Compass,"$2,438,000 USD",9.0,0.0,18.0
+713,713,"6104 Hedgecrest Cir, San Ramon, Contra Costa County, CA, 94582",4,3.0,"2,449",0.12 ac,Justin Paek ,KW Advisors,"$1,975,000 USD",33.0,0.0,26.0
+714,714,"4948 Ivyleaf Springs Rd, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,203",0,Azad Aramandla ,Keller Williams Realty,"$1,190,000 USD",5.0,0.0,28.0
+715,715,"9085 Alcosta Blvd 307, San Ramon, Contra Costa County, CA, 94583",2,1.0,952,0,Jane Cresswell ,Realty World Pinnacle,"$528,000 USD",55.0,0.0,64.0
+716,716,"9074 Craydon Cir, San Ramon, Contra Costa County, CA, 94583",1,1.0,612,0.02 ac,Gina Cefalu ,RE/MAX Accord,"$375,000 USD",18.0,0.0,45.0
+717,717,"388 Catalan Way, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,067",0.06 ac,Elin Matter ,Compass,"$1,418,000 USD",25.0,0.0,17.0
+718,718,"1557 Banbury Dr, San Ramon, Contra Costa County, CA, 94582",5,4.0,"2,661",0.1 ac,Vivian Ho ,"eXp Realty of California, Inc","$1,999,999 USD",16.0,0.0,21.0
+719,719,"110 Compton Cir D, San Ramon, Contra Costa County, CA, 94583",2,1.0,685,0,Felicie Tsuruda ,Compass,"$469,000 USD",77.0,0.0,62.0
+720,720,"2572 McLaren Ln, San Ramon, Contra Costa County, CA, 94582",4,3.0,"1,775",0.07 ac,Jerry Kumar ,Paramount Buildings & Loans,"$1,498,888 USD",20.0,0.0,32.0
+721,721,"2520 Fountainhead Dr, San Ramon, Contra Costa County, CA, 94583",2,2.0,"1,102",0.02 ac,Scott Dunlop ,Christie's Int'l RE Sereno,"$665,000 USD",19.0,0.0,9.0
+722,722,"105 Landsdowne Loop, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,180",0.023 ac,Bouchra Chandran ,Legacy Real Estate & Assoc.,"$1,188,000 USD",25.0,0.0,52.0
+723,723,"7415 Sedgefield Ave, San Ramon, Contra Costa County, CA, 94583",4,3.0,"2,030",0.21 ac,Laura Lane ,Lane & Associates,"$1,549,000 USD",35.0,0.0,63.0
+724,724,"9016 Craydon Cir, San Ramon, Contra Costa County, CA, 94583",2,1.0,780,0.03 ac,Amir Aliloupour ,RE/MAX Accord,"$475,000 USD",35.0,0.0,67.0
+725,725,"7525 Imperata Ln, San Ramon, Contra Costa County, CA, 94582",3,3.0,"1,419",0.05 ac,Naresh (Nick Sabnani ,Realty ONE Group Future,"$1,199,888 USD",21.0,0.0,26.0
+726,726,"9677 Tareyton Ave , San Ramon, Contra Costa County, CA, 94583",4,2.5,"1,617",0,Emiliana Flemate Baker ,Compass,"$1,458,888 USD",14.0,0.0,30.0
+727,727,"2876 Milo Way, San Ramon, Contra Costa County, CA, 94583",4,2.0,"1,795",0.2 ac,Fonia Humphries ,Dudum Real Estate Group,"$1,438,000 USD",19.0,0.0,42.0
+728,728,"1283 Canyon Side Ave , San Ramon, Contra Costa County, CA, 94582",4,3.0,"2,404",0,Michelle Mertz ,Notable Real Estate,"$1,378,000 USD",10.0,0.0,18.0
+729,729,"6132 Yardley Ln, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,180",0,Melia Kwee ,Re/Max Accord,"$1,175,000 USD",15.0,0.0,15.0
+730,730,"3246 Ensenada Dr, San Ramon, Contra Costa County, CA, 94583",4,3.0,"1,880",0.16 ac,Arnold Urbick ,Realty ONE Group Future,"$1,395,000 USD",26.0,0.0,67.0
+731,731,"200 Sherwood Ct, San Ramon, Contra Costa County, CA, 94582",5,4.0,"4,176",0.31 ac,Elin Matter ,Compass,"$2,788,000 USD",9.0,0.0,12.0
+732,732,"15 Leigh Ct., San Ramon, Contra Costa County, CA, 94582",4,3.0,"2,460",0.22 ac,Paul Zuvella ,Compass,"$1,825,000 USD",42.0,0.0,63.0
+733,733,"3482 Cinnamon Ridge Rd , San Ramon, Contra Costa County, CA, 94582",4,4.5,"2,921",0,Joujou Chawla ,Compass,"$2,099,500 USD",12.0,0.0,20.0
+734,734,"2695 Shadow Mountain Dr, San Ramon, Contra Costa County, CA, 94583",2,2.0,"1,281",0.06 ac,Crystal Florida ,Compass,"$888,000 USD",77.0,0.0,56.0
+735,735,"3542 Rosincress Dr, San Ramon, Contra Costa County, CA, 94582",5,5.0,"3,847",0.23 ac,Peter Bareiss ,RE/MAX Accord,"$2,975,000 USD",16.0,0.0,12.0
+736,736,"5261 Pembroke Way , San Ramon, Contra Costa County, CA, 94582",6,4.5,"4,406",0,Frazzano Tse Team ,Compass,"$2,438,000 USD",9.0,0.0,18.0
+737,737,"6104 Hedgecrest Cir, San Ramon, Contra Costa County, CA, 94582",4,3.0,"2,449",0.12 ac,Justin Paek ,KW Advisors,"$1,975,000 USD",33.0,0.0,26.0
+738,738,"4948 Ivyleaf Springs Rd, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,203",0,Azad Aramandla ,Keller Williams Realty,"$1,190,000 USD",5.0,0.0,28.0
+739,739,"9085 Alcosta Blvd 307, San Ramon, Contra Costa County, CA, 94583",2,1.0,952,0,Jane Cresswell ,Realty World Pinnacle,"$528,000 USD",55.0,0.0,64.0
+740,740,"9074 Craydon Cir, San Ramon, Contra Costa County, CA, 94583",1,1.0,612,0.02 ac,Gina Cefalu ,RE/MAX Accord,"$375,000 USD",18.0,0.0,45.0
+741,741,"388 Catalan Way, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,067",0.06 ac,Elin Matter ,Compass,"$1,418,000 USD",25.0,0.0,17.0
+742,742,"1557 Banbury Dr, San Ramon, Contra Costa County, CA, 94582",5,4.0,"2,661",0.1 ac,Vivian Ho ,"eXp Realty of California, Inc","$1,999,999 USD",16.0,0.0,21.0
+743,743,"110 Compton Cir D, San Ramon, Contra Costa County, CA, 94583",2,1.0,685,0,Felicie Tsuruda ,Compass,"$469,000 USD",77.0,0.0,62.0
+744,744,"2572 McLaren Ln, San Ramon, Contra Costa County, CA, 94582",4,3.0,"1,775",0.07 ac,Jerry Kumar ,Paramount Buildings & Loans,"$1,498,888 USD",20.0,0.0,32.0
+745,745,"2520 Fountainhead Dr, San Ramon, Contra Costa County, CA, 94583",2,2.0,"1,102",0.02 ac,Scott Dunlop ,Christie's Int'l RE Sereno,"$665,000 USD",19.0,0.0,9.0
+746,746,"105 Landsdowne Loop, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,180",0.023 ac,Bouchra Chandran ,Legacy Real Estate & Assoc.,"$1,188,000 USD",25.0,0.0,52.0
+747,747,"7415 Sedgefield Ave, San Ramon, Contra Costa County, CA, 94583",4,3.0,"2,030",0.21 ac,Laura Lane ,Lane & Associates,"$1,549,000 USD",35.0,0.0,63.0
+748,748,"9016 Craydon Cir, San Ramon, Contra Costa County, CA, 94583",2,1.0,780,0.03 ac,Amir Aliloupour ,RE/MAX Accord,"$475,000 USD",35.0,0.0,67.0
+749,749,"7525 Imperata Ln, San Ramon, Contra Costa County, CA, 94582",3,3.0,"1,419",0.05 ac,Naresh (Nick Sabnani ,Realty ONE Group Future,"$1,199,888 USD",21.0,0.0,26.0
+750,750,"9677 Tareyton Ave , San Ramon, Contra Costa County, CA, 94583",4,2.5,"1,617",0,Emiliana Flemate Baker ,Compass,"$1,458,888 USD",14.0,0.0,30.0
+751,751,"2876 Milo Way, San Ramon, Contra Costa County, CA, 94583",4,2.0,"1,795",0.2 ac,Fonia Humphries ,Dudum Real Estate Group,"$1,438,000 USD",19.0,0.0,42.0
+752,752,"1283 Canyon Side Ave , San Ramon, Contra Costa County, CA, 94582",4,3.0,"2,404",0,Michelle Mertz ,Notable Real Estate,"$1,378,000 USD",10.0,0.0,18.0
+753,753,"6132 Yardley Ln, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,180",0,Melia Kwee ,Re/Max Accord,"$1,175,000 USD",15.0,0.0,15.0
+754,754,"3246 Ensenada Dr, San Ramon, Contra Costa County, CA, 94583",4,3.0,"1,880",0.16 ac,Arnold Urbick ,Realty ONE Group Future,"$1,395,000 USD",26.0,0.0,67.0
+755,755,"200 Sherwood Ct, San Ramon, Contra Costa County, CA, 94582",5,4.0,"4,176",0.31 ac,Elin Matter ,Compass,"$2,788,000 USD",9.0,0.0,12.0
+756,756,"15 Leigh Ct., San Ramon, Contra Costa County, CA, 94582",4,3.0,"2,460",0.22 ac,Paul Zuvella ,Compass,"$1,825,000 USD",42.0,0.0,63.0
+757,757,"3482 Cinnamon Ridge Rd , San Ramon, Contra Costa County, CA, 94582",4,4.5,"2,921",0,Joujou Chawla ,Compass,"$2,099,500 USD",12.0,0.0,20.0
+758,758,"2695 Shadow Mountain Dr, San Ramon, Contra Costa County, CA, 94583",2,2.0,"1,281",0.06 ac,Crystal Florida ,Compass,"$888,000 USD",77.0,0.0,56.0
+759,759,"3542 Rosincress Dr, San Ramon, Contra Costa County, CA, 94582",5,5.0,"3,847",0.23 ac,Peter Bareiss ,RE/MAX Accord,"$2,975,000 USD",16.0,0.0,12.0
+760,760,"5261 Pembroke Way , San Ramon, Contra Costa County, CA, 94582",6,4.5,"4,406",0,Frazzano Tse Team ,Compass,"$2,438,000 USD",9.0,0.0,18.0
+761,761,"6104 Hedgecrest Cir, San Ramon, Contra Costa County, CA, 94582",4,3.0,"2,449",0.12 ac,Justin Paek ,KW Advisors,"$1,975,000 USD",33.0,0.0,26.0
+762,762,"4948 Ivyleaf Springs Rd, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,203",0,Azad Aramandla ,Keller Williams Realty,"$1,190,000 USD",5.0,0.0,28.0
+763,763,"9085 Alcosta Blvd 307, San Ramon, Contra Costa County, CA, 94583",2,1.0,952,0,Jane Cresswell ,Realty World Pinnacle,"$528,000 USD",55.0,0.0,64.0
+764,764,"9074 Craydon Cir, San Ramon, Contra Costa County, CA, 94583",1,1.0,612,0.02 ac,Gina Cefalu ,RE/MAX Accord,"$375,000 USD",18.0,0.0,45.0
+765,765,"388 Catalan Way, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,067",0.06 ac,Elin Matter ,Compass,"$1,418,000 USD",25.0,0.0,17.0
+766,766,"1557 Banbury Dr, San Ramon, Contra Costa County, CA, 94582",5,4.0,"2,661",0.1 ac,Vivian Ho ,"eXp Realty of California, Inc","$1,999,999 USD",16.0,0.0,21.0
+767,767,"110 Compton Cir D, San Ramon, Contra Costa County, CA, 94583",2,1.0,685,0,Felicie Tsuruda ,Compass,"$469,000 USD",77.0,0.0,62.0
+768,768,"2572 McLaren Ln, San Ramon, Contra Costa County, CA, 94582",4,3.0,"1,775",0.07 ac,Jerry Kumar ,Paramount Buildings & Loans,"$1,498,888 USD",20.0,0.0,32.0
+769,769,"2520 Fountainhead Dr, San Ramon, Contra Costa County, CA, 94583",2,2.0,"1,102",0.02 ac,Scott Dunlop ,Christie's Int'l RE Sereno,"$665,000 USD",19.0,0.0,9.0
+770,770,"105 Landsdowne Loop, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,180",0.023 ac,Bouchra Chandran ,Legacy Real Estate & Assoc.,"$1,188,000 USD",25.0,0.0,52.0
+771,771,"7415 Sedgefield Ave, San Ramon, Contra Costa County, CA, 94583",4,3.0,"2,030",0.21 ac,Laura Lane ,Lane & Associates,"$1,549,000 USD",35.0,0.0,63.0
+772,772,"9016 Craydon Cir, San Ramon, Contra Costa County, CA, 94583",2,1.0,780,0.03 ac,Amir Aliloupour ,RE/MAX Accord,"$475,000 USD",35.0,0.0,67.0
+773,773,"7525 Imperata Ln, San Ramon, Contra Costa County, CA, 94582",3,3.0,"1,419",0.05 ac,Naresh (Nick Sabnani ,Realty ONE Group Future,"$1,199,888 USD",21.0,0.0,26.0
+774,774,"9677 Tareyton Ave , San Ramon, Contra Costa County, CA, 94583",4,2.5,"1,617",0,Emiliana Flemate Baker ,Compass,"$1,458,888 USD",14.0,0.0,30.0
+775,775,"2876 Milo Way, San Ramon, Contra Costa County, CA, 94583",4,2.0,"1,795",0.2 ac,Fonia Humphries ,Dudum Real Estate Group,"$1,438,000 USD",19.0,0.0,42.0
+776,776,"1283 Canyon Side Ave , San Ramon, Contra Costa County, CA, 94582",4,3.0,"2,404",0,Michelle Mertz ,Notable Real Estate,"$1,378,000 USD",10.0,0.0,18.0
+777,777,"6132 Yardley Ln, San Ramon, Contra Costa County, CA, 94582",3,3.0,"2,180",0,Melia Kwee ,Re/Max Accord,"$1,175,000 USD",15.0,0.0,15.0
+778,778,"3246 Ensenada Dr, San Ramon, Contra Costa County, CA, 94583",4,3.0,"1,880",0.16 ac,Arnold Urbick ,Realty ONE Group Future,"$1,395,000 USD",26.0,0.0,67.0
+779,779,"200 Sherwood Ct, San Ramon, Contra Costa County, CA, 94582",5,4.0,"4,176",0.31 ac,Elin Matter ,Compass,"$2,788,000 USD",9.0,0.0,12.0
+780,780,"1225 Vienna Dr. #990, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,120",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$249,000 USD",45.0,43.0,82.0
+781,781,"248 Red Oak Drive Unit C, Sunnyvale, Santa Clara County, CA, 94086",2,1.0,926,0,Dexter Lat ,Realty World One Alliance,"$724,888 USD",51.0,35.0,79.0
+782,782,"1360 Road Runner TER D, Sunnyvale, Santa Clara County, CA, 94087",2,2.0,"1,212",0,Fran Papapietro ,Christie's International Real Estate Sereno,"$1,048,900 USD",76.0,42.0,62.0
+783,783,"440 San Eduardo TER, Sunnyvale, Santa Clara County, CA, 94085",3,4.0,"1,691",0,Dedy Efendi ,Action Properties Inc,"$1,448,000 USD",71.0,38.0,81.0
+784,784,"311 W Duane AVE, Sunnyvale, Santa Clara County, CA, 94085",5,4.0,"2,372",0.125 ac,Gene Au ,Realty World Dominion,"$2,398,000 USD",71.0,41.0,80.0
+785,785,"1509 Harrison CT, Sunnyvale, Santa Clara County, CA, 94087",6,4.0,"2,352",0.199 ac,Tim Proschold ,Christie's International Real Estate Sereno,"$3,498,000 USD",32.0,28.0,52.0
+786,786,"564 Madrone AVE, Sunnyvale, Santa Clara County, CA, 94085",3,3.0,"1,022",0.126 ac,Donna L. Zehner ,Realty World Trademark Prop.,"$1,199,888 USD",81.0,42.0,81.0
+787,787,"691 Lakehaven DR, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,144",0.192 ac,Juliana Espinosa ,Realty ONE Group Future,"$1,640,000 USD",42.0,41.0,73.0
+788,788,"1220 Vienna Drive 556, Sunnyvale, Santa Clara County, CA, 94089",3,3.0,0,0,Jonathan Minerick ,HOMECOIN.COM,"$399,000 USD",59.0,43.0,72.0
+789,789,"1050 Borregas Ave. #113, Sunnyvale, Santa Clara County, CA, 94089",3,3.0,"1,580",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$199,000 USD",46.0,39.0,72.0
+790,790,"1085 Tasman DR 140, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,260",0,Garfield Small ,Intero Real Estate Services,"$285,000 USD",53.0,43.0,73.0
+791,791,"505 Westside Ave , Sunnyvale, Santa Clara County, CA, 94087",4,2.5,"2,425",0,"David Lau, Broker Associate ",Century 21 Real Estate Alliance,"$2,799,888 USD",70.0,42.0,86.0
+792,792,"1085 Tasman Dr. #836, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,716",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$329,000 USD",68.0,45.0,79.0
+793,793,"581 Kirk Avenue , Sunnyvale, Santa Clara County, CA, 94085",3,3.0,"1,610",0,Mike Strouf ,Intero Real Estate - The Genesis Team,"$2,189,000 USD",82.0,41.0,80.0
+794,794,"1220 Tasman Dr. #247, Sunnyvale, Santa Clara County, CA, 94089",3,3.0,"1,539",0,Rita Hutchins ,Alliance Manufactured Homes,"$405,000 USD",45.0,49.0,81.0
+795,795,"1050 Borregas Ave. #42, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,624",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$329,000 USD",46.0,39.0,72.0
+796,796,"102 Holly TER, Sunnyvale, Santa Clara County, CA, 94086",3,3.0,"1,740",0,Amy Yao ,Intero Real Estate Services,"$1,598,000 USD",62.0,42.0,81.0
+797,797,"1241 Heatherstone WAY, Sunnyvale, Santa Clara County, CA, 94087",2,1.0,"1,002",0.129 ac,Anson Ip ,Compass,"$1,759,800 USD",62.0,41.0,89.0
+798,798,"1225 Vienna Drive #302 , Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,616",0,Janet Wooldridge ,Ideal Homes,"$350,000 USD",39.0,42.0,72.0
+799,799,"1268-2 Poplar AVE, Sunnyvale, Santa Clara County, CA, 94086",3,3.0,"1,667",0.089 ac,Hiep K. Nguyen ,Christie's International Real Estate Sereno,"$2,380,000 USD",69.0,42.0,72.0
+800,800,"1220 Tasman Dr #271, Sunnyvale, Santa Clara County, CA, 94089",2,2.0,"1,319",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$299,000 USD",59.0,49.0,78.0
+801,801,"1020 Polk AVE, Sunnyvale, Santa Clara County, CA, 94086",3,3.0,"1,800",0.074 ac,Leanna Scott ,KW Silicon City,"$2,285,000 USD",71.0,40.0,88.0
+802,802,"1225 Vienna Dr. #990, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,120",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$249,000 USD",45.0,43.0,82.0
+803,803,"248 Red Oak Drive Unit C, Sunnyvale, Santa Clara County, CA, 94086",2,1.0,926,0,Dexter Lat ,Realty World One Alliance,"$724,888 USD",51.0,35.0,79.0
+804,804,"1360 Road Runner TER D, Sunnyvale, Santa Clara County, CA, 94087",2,2.0,"1,212",0,Fran Papapietro ,Christie's International Real Estate Sereno,"$1,048,900 USD",76.0,42.0,62.0
+805,805,"440 San Eduardo TER, Sunnyvale, Santa Clara County, CA, 94085",3,4.0,"1,691",0,Dedy Efendi ,Action Properties Inc,"$1,448,000 USD",71.0,38.0,81.0
+806,806,"311 W Duane AVE, Sunnyvale, Santa Clara County, CA, 94085",5,4.0,"2,372",0.125 ac,Gene Au ,Realty World Dominion,"$2,398,000 USD",71.0,41.0,80.0
+807,807,"1509 Harrison CT, Sunnyvale, Santa Clara County, CA, 94087",6,4.0,"2,352",0.199 ac,Tim Proschold ,Christie's International Real Estate Sereno,"$3,498,000 USD",32.0,28.0,52.0
+808,808,"564 Madrone AVE, Sunnyvale, Santa Clara County, CA, 94085",3,3.0,"1,022",0.126 ac,Donna L. Zehner ,Realty World Trademark Prop.,"$1,199,888 USD",81.0,42.0,81.0
+809,809,"691 Lakehaven DR, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,144",0.192 ac,Juliana Espinosa ,Realty ONE Group Future,"$1,640,000 USD",42.0,41.0,73.0
+810,810,"1220 Vienna Drive 556, Sunnyvale, Santa Clara County, CA, 94089",3,3.0,0,0,Jonathan Minerick ,HOMECOIN.COM,"$399,000 USD",59.0,43.0,72.0
+811,811,"1050 Borregas Ave. #113, Sunnyvale, Santa Clara County, CA, 94089",3,3.0,"1,580",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$199,000 USD",46.0,39.0,72.0
+812,812,"1085 Tasman DR 140, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,260",0,Garfield Small ,Intero Real Estate Services,"$285,000 USD",53.0,43.0,73.0
+813,813,"505 Westside Ave , Sunnyvale, Santa Clara County, CA, 94087",4,2.5,"2,425",0,"David Lau, Broker Associate ",Century 21 Real Estate Alliance,"$2,799,888 USD",70.0,42.0,86.0
+814,814,"1085 Tasman Dr. #836, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,716",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$329,000 USD",68.0,45.0,79.0
+815,815,"581 Kirk Avenue , Sunnyvale, Santa Clara County, CA, 94085",3,3.0,"1,610",0,Mike Strouf ,Intero Real Estate - The Genesis Team,"$2,189,000 USD",82.0,41.0,80.0
+816,816,"1220 Tasman Dr. #247, Sunnyvale, Santa Clara County, CA, 94089",3,3.0,"1,539",0,Rita Hutchins ,Alliance Manufactured Homes,"$405,000 USD",45.0,49.0,81.0
+817,817,"1050 Borregas Ave. #42, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,624",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$329,000 USD",46.0,39.0,72.0
+818,818,"102 Holly TER, Sunnyvale, Santa Clara County, CA, 94086",3,3.0,"1,740",0,Amy Yao ,Intero Real Estate Services,"$1,598,000 USD",62.0,42.0,81.0
+819,819,"1241 Heatherstone WAY, Sunnyvale, Santa Clara County, CA, 94087",2,1.0,"1,002",0.129 ac,Anson Ip ,Compass,"$1,759,800 USD",62.0,41.0,89.0
+820,820,"1225 Vienna Drive #302 , Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,616",0,Janet Wooldridge ,Ideal Homes,"$350,000 USD",39.0,42.0,72.0
+821,821,"1268-2 Poplar AVE, Sunnyvale, Santa Clara County, CA, 94086",3,3.0,"1,667",0.089 ac,Hiep K. Nguyen ,Christie's International Real Estate Sereno,"$2,380,000 USD",69.0,42.0,72.0
+822,822,"1220 Tasman Dr #271, Sunnyvale, Santa Clara County, CA, 94089",2,2.0,"1,319",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$299,000 USD",59.0,49.0,78.0
+823,823,"1020 Polk AVE, Sunnyvale, Santa Clara County, CA, 94086",3,3.0,"1,800",0.074 ac,Leanna Scott ,KW Silicon City,"$2,285,000 USD",71.0,40.0,88.0
+824,824,"1225 Vienna Dr. #990, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,120",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$249,000 USD",45.0,43.0,82.0
+825,825,"248 Red Oak Drive Unit C, Sunnyvale, Santa Clara County, CA, 94086",2,1.0,926,0,Dexter Lat ,Realty World One Alliance,"$724,888 USD",51.0,35.0,79.0
+826,826,"1360 Road Runner TER D, Sunnyvale, Santa Clara County, CA, 94087",2,2.0,"1,212",0,Fran Papapietro ,Christie's International Real Estate Sereno,"$1,048,900 USD",76.0,42.0,62.0
+827,827,"440 San Eduardo TER, Sunnyvale, Santa Clara County, CA, 94085",3,4.0,"1,691",0,Dedy Efendi ,Action Properties Inc,"$1,448,000 USD",71.0,38.0,81.0
+828,828,"311 W Duane AVE, Sunnyvale, Santa Clara County, CA, 94085",5,4.0,"2,372",0.125 ac,Gene Au ,Realty World Dominion,"$2,398,000 USD",71.0,41.0,80.0
+829,829,"1509 Harrison CT, Sunnyvale, Santa Clara County, CA, 94087",6,4.0,"2,352",0.199 ac,Tim Proschold ,Christie's International Real Estate Sereno,"$3,498,000 USD",32.0,28.0,52.0
+830,830,"564 Madrone AVE, Sunnyvale, Santa Clara County, CA, 94085",3,3.0,"1,022",0.126 ac,Donna L. Zehner ,Realty World Trademark Prop.,"$1,199,888 USD",81.0,42.0,81.0
+831,831,"691 Lakehaven DR, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,144",0.192 ac,Juliana Espinosa ,Realty ONE Group Future,"$1,640,000 USD",42.0,41.0,73.0
+832,832,"1220 Vienna Drive 556, Sunnyvale, Santa Clara County, CA, 94089",3,3.0,0,0,Jonathan Minerick ,HOMECOIN.COM,"$399,000 USD",59.0,43.0,72.0
+833,833,"1050 Borregas Ave. #113, Sunnyvale, Santa Clara County, CA, 94089",3,3.0,"1,580",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$199,000 USD",46.0,39.0,72.0
+834,834,"1085 Tasman DR 140, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,260",0,Garfield Small ,Intero Real Estate Services,"$285,000 USD",53.0,43.0,73.0
+835,835,"505 Westside Ave , Sunnyvale, Santa Clara County, CA, 94087",4,2.5,"2,425",0,"David Lau, Broker Associate ",Century 21 Real Estate Alliance,"$2,799,888 USD",70.0,42.0,86.0
+836,836,"1085 Tasman Dr. #836, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,716",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$329,000 USD",68.0,45.0,79.0
+837,837,"581 Kirk Avenue , Sunnyvale, Santa Clara County, CA, 94085",3,3.0,"1,610",0,Mike Strouf ,Intero Real Estate - The Genesis Team,"$2,189,000 USD",82.0,41.0,80.0
+838,838,"1220 Tasman Dr. #247, Sunnyvale, Santa Clara County, CA, 94089",3,3.0,"1,539",0,Rita Hutchins ,Alliance Manufactured Homes,"$405,000 USD",45.0,49.0,81.0
+839,839,"1050 Borregas Ave. #42, Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,624",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$329,000 USD",46.0,39.0,72.0
+840,840,"102 Holly TER, Sunnyvale, Santa Clara County, CA, 94086",3,3.0,"1,740",0,Amy Yao ,Intero Real Estate Services,"$1,598,000 USD",62.0,42.0,81.0
+841,841,"1241 Heatherstone WAY, Sunnyvale, Santa Clara County, CA, 94087",2,1.0,"1,002",0.129 ac,Anson Ip ,Compass,"$1,759,800 USD",62.0,41.0,89.0
+842,842,"1225 Vienna Drive #302 , Sunnyvale, Santa Clara County, CA, 94089",3,2.0,"1,616",0,Janet Wooldridge ,Ideal Homes,"$350,000 USD",39.0,42.0,72.0
+843,843,"1268-2 Poplar AVE, Sunnyvale, Santa Clara County, CA, 94086",3,3.0,"1,667",0.089 ac,Hiep K. Nguyen ,Christie's International Real Estate Sereno,"$2,380,000 USD",69.0,42.0,72.0
+844,844,"1220 Tasman Dr #271, Sunnyvale, Santa Clara County, CA, 94089",2,2.0,"1,319",0,Alliance Manufactured Homes ,Alliance Manufactured Homes,"$299,000 USD",59.0,49.0,78.0
+845,845,"1020 Polk AVE, Sunnyvale, Santa Clara County, CA, 94086",3,3.0,"1,800",0.074 ac,Leanna Scott ,KW Silicon City,"$2,285,000 USD",71.0,40.0,88.0
