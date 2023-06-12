@@ -2,6 +2,7 @@
 
 ## Scope of this Project:
 The project scope was to develop a predictive tool that would help users find rental properties based on their budget and area requirements. The tool was developed using data scraped from the real estate website, Point2Homes.
+
 ![Image](./Point2_homes.webp)
 
 ## Steps for Analysis:
