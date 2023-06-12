@@ -6,7 +6,7 @@ The project scope was to develop a predictive tool that would help users find re
 ![Image](./Point2_homes.webp)
 
 ## Steps for Analysis:
-The data was scraped from Point2Homes using a web scraping tool called Beautiful Soup.
+The data was scraped from Point2Homes using a web scraping uitlizing Beautiful Soup.
 The data was then cleaned and preprocessed using Python.
 Multiple models were developed using regression and the K-nearest neighbors (KNN) algorithm.
 The results of the models were visualized in Power BI.
