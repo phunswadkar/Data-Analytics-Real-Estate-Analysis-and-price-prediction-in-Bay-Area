@@ -1,6 +1,17 @@
 # Data Analytics | Real Estate Analysis and price prediction in Bay Area
 
- The project included several important phases, involving web-scraping of the rental listings from a real-estate website, Point2Homes and then applying various data exploration methods to understand the Data. After preprocessing and analyzing the data, we then came up with multiple models including regression, and a predictive tool that is independent of any correlation using K-NN algorithm, further we visualized the results of this algorithm in Power Bi and built an interactive solution to help Users/Customers find the properties based on their Budget and Area requirements.
+## Scope of this Project:
+The project scope was to develop a predictive tool that would help users find rental properties based on their budget and area requirements. The tool was developed using data scraped from the real estate website, Point2Homes.
+![Image](./Point2_homes.webp)
 
+## Steps for Analysis:
+The data was scraped from Point2Homes using a web scraping tool called Beautiful Soup.
+The data was then cleaned and preprocessed using Python.
+Multiple models were developed using regression and the K-nearest neighbors (KNN) algorithm.
+The results of the models were visualized in Power BI.
 
-### Tools and Technologies: Python, Power BI, Pandas, NumPy, Seaborn, Matplotlib
+#### Tools and Technologies: Python, Power BI, Pandas, NumPy, Seaborn, Matplotlib
+
+## Conclusion: 
+The result of the project was a successful development of a predictive tool that was able to accurately predict the price of rental properties based on the user's budget and area requirements. The tool can also be used by real estate agents to help their clients find the perfect rental property. The project was a valuable learning experience and it helped me to develop my skills in data scraping, data cleaning, data preprocessing, machine learning, and data visualization
+
