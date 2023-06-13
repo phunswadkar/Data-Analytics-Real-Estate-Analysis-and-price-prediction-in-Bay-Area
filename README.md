@@ -9,7 +9,6 @@ The project scope was to develop a predictive model that would help users find r
 The data was scraped from Point2Homes using a web scraping uitlizing Beautiful Soup.
 The data was then cleaned and preprocessed using Python.
 Multiple models were developed using regression and the K-nearest neighbors (KNN) algorithm.
-The results of the models were visualized in Power BI.
 
 #### Tools and Technologies: Python, Power BI, Pandas, NumPy, Seaborn, Matplotlib
 
